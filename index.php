@@ -111,8 +111,29 @@
    <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="https://www.360recruitment.nl/360web/calculator">Klik hier!</a></div>
 </div>
 <div class='double-slide' id='third-block'>
-   <div><h2 class='text-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2></div>
-   <div></div>
+   <div class='main'><h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2></div>
+   <div class='main'>
+       <div class='col-md-10 col-md-offset-1'>
+           <div class='col-md-4'>
+               <h2 class='text-center'>KIES HET PRODUCT</h2>
+               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
+           </div>
+           <div class='col-md-4'>
+               <h2 class='text-center'>U STUURT DE CONTENT</h2>
+               <p>
+                   Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat.
+
+</p>
+           </div>
+           <div class='col-md-4'>
+               <h2 class='text-center'>LIVE!</h2>
+
+               <p>
+                   Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
+               </p>
+           </div>
+       </div>
+   </div>
 </div>
 <div class='single-slide' id='fourth-block'>
    <div class="smallspace"></div>
