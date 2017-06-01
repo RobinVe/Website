@@ -2,7 +2,7 @@
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
 <style></style>
 <div class="fluid-container">
-   <div class='single-slide' id="first-block">
+   <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
       <div class='visible-xs'>
           <h1 class='text-center'>Profesionele website vanaf 499,-</p>
@@ -10,7 +10,7 @@
    </div>
 </div>
 
-<div class='single-slide' id="second-block">
+<div class='single-slide' id="Pakketten">
    <div class='col-md-12 col-xs-12 block-back'>
       <div id="container">
          <div class="whole">
@@ -110,15 +110,21 @@
    </div>
    <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="https://www.360recruitment.nl/360web/calculator">Klik hier!</a></div>
 </div>
-<div class='double-slide' id='third-block'>
-   <div class='main'><h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2></div>
+
+<div class='double-slide' id='Procces'>
+   <div class='main'>
+	   <h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
+   </div>
    <div class='main'>
        <div class='col-md-10 col-md-offset-1'>
            <div class='col-md-4'>
+			   <h1 class='title-number text-center'>1.</h1>
+
                <h2 class='text-center'>KIES HET PRODUCT</h2>
-               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
+               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p> <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
            </div>
            <div class='col-md-4'>
+			   <h1 class='title-number text-center'>2.</h1>
                <h2 class='text-center'>U STUURT DE CONTENT</h2>
                <p>
                    Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat.
@@ -126,6 +132,7 @@
 </p>
            </div>
            <div class='col-md-4'>
+			   <h1 class='title-number text-center'>3.</h1>
                <h2 class='text-center'>LIVE!</h2>
 
                <p>
@@ -135,11 +142,14 @@
        </div>
    </div>
 </div>
-<div class='single-slide' id='fourth-block'>
-   <div class="smallspace"></div>
-   <div class='col-md-10 col-md-offset-1 col-xs-12' >
-      <?php include('fullservice.php'); ?>
-   </div>
+
+<div class='double-slide vertical-slide' id='Full-Service'>
+	<div class='main col-md-6'>
+		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
+	</div>
+	<div class='main col-md-6'>
+		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
+	</div>
 </div>
 <div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
 <?php require 'footer.php'; ?>
