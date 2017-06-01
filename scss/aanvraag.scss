@@ -1,0 +1,16 @@
+@import 'style.scss';
+
+.content-left{
+        background: $secondary;
+        min-height: 100vh;
+        padding: 130px;
+        padding-top: 290px;
+}
+
+.content-right{
+    background: url('/img/server_orange.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: $primary;
+    min-height: 100vh;
+}

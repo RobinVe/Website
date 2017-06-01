@@ -1,0 +1,50 @@
+@import 'colors';
+
+.navbar {
+    border-bottom: none;
+
+    .navbar-nav {
+        display: inline-block;
+        float: right;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+}
+
+.navbar-brand {
+    float: left;
+}
+
+.mediumspace {
+    height: 125px;
+}
+
+.navbar-default {
+    background-color: transparent;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    position: absolute;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: darken($secondary, 20%);
+    transition: 0.3s all;
+    font-size: 25px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    &:hover{
+        color: darken($primary, 20%);
+    }
+}
+
+.navbar-nav>li>a:hover {
+    color: #f58a08 !important;
+    text-decoration: none;
+    transition: 0.3s all;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+}
