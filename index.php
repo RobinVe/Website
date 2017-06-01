@@ -15,7 +15,7 @@
       <div id="container">
          <div class="whole">
             <div class="type">
-               <p>Testing</p>
+               <p>Starter</p>
             </div>
             <div class="plan">
                <div class="header">
