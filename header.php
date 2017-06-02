@@ -18,6 +18,6 @@
     <link href="<?php echo current_link();?>css/navbar.min.css" rel="stylesheet">
     <link href="<?php echo current_link();?>css/style.min.css" rel="stylesheet">
 
+	<script src="<?php echo current_link();?>js/jquery-3.2.1.min.js"></script>
     <script src="<?php echo current_link();?>js/bootstrap.min.js"></script>
-    <script src="<?php echo current_link();?>js/jquery-3.2.1.min.js"></script>
 </head>
