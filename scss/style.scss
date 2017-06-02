@@ -32,8 +32,6 @@ body{
     }
 }
 
-
-
 .double-slide{
 	min-height: 100vh;
     .main:nth-of-type(1){
@@ -72,12 +70,33 @@ footer{
 ul li{
 	list-style: none;
 }
-.fa-chevron-up{
-background-color: #5c5c5c;
-padding: 15px;
-border-radius: 4px;
-position: fixed;
-color: #fff;
-bottom: 5%;
-right: 2%;
+
+.back-to-top {
+    visibility: hidden;
+    background-color: #444;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 48px;
+    position: fixed;
+    bottom: 65px;
+    right: 35px;
+    z-index: 90;
+    cursor: pointer;
+    border-radius: 1px;
+    opacity: 0;
+    -webkit-transform: translateZ(0);
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s;
+    border-radius: 4px;
+}
+
+.back-to-top.show {
+    visibility: visible;
+    bottom: 35px;
+    opacity: 1;
+}
+
+.fa{
+	color:$secondary;
 }
