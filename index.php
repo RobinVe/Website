@@ -186,7 +186,7 @@
 				<p>Respondtime 2 werkuren</p>
 				<ul>
 					<li>Basic plus</li>
-					<li>Bekijk het gedrach van uw bezoekers</li>
+					<li>Bekijk het gedrag van uw bezoekers</li>
 					<li>Google Analytics adviesrapporten op maat</li>
 					<li>Performance meetingen en proactief</li>
 					<li>Extra Backups</li>
