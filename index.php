@@ -142,7 +142,7 @@
        </div>
    </div>
 </div>
-<div class='double-slide vertical-slide' id='fourth-block'>
+<div class='double-slide vertical-slide' id='Full-Service'>
 	<div class='main col-md-6'>
 		<div class='row'>
 
@@ -210,14 +210,6 @@
 	</div>
 </div>
 
-<div class='double-slide vertical-slide' id='Full-Service'>
-	<div class='main col-md-6'>
-		<h2 class='text-center flex'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
-	</div>
-	<div class='main col-md-6'>
-		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
-	</div>
-</div>
 <div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
 </div>
 <?php include('footer.php'); ?>
