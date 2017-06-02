@@ -1,6 +1,7 @@
 <?php require 'header.php'; ?>
 <head>
 <link href="css/overons.css" type="text/css" rel="stylesheet">
+<link href="css/overons.min.css" type="text/css" rel="stylesheet">
 </head>
 <div class="fluid-container testb0ss">
   <div class="col-md-12">
@@ -42,7 +43,7 @@
       <div class="col-md-4">
         <div class="mediumspace"></div>
 
-        <div class='col-md-9 col-md-offset-1 text-center contact'>
+        <div class='col-md-9 col-md-offset-1 text-center contact2'>
         <img src="img/Paulino_225x300.jpg" height="250">
         <p>J.J. dos Santos Paulino</p>
         <p class="quote">"One day or day one. You decide."</p>
@@ -51,7 +52,7 @@
       <div class="col-md-4">
         <div class="mediumspace"></div>
 
-        <div class='col-md-9 col-md-offset-2 text-center contact end'>
+        <div class='col-md-9 col-md-offset-2 text-center contact2 end'>
         <img src="img/michelle_225x300.png" height="250">
         <p>Michelle Vrolijk</p>
         <p class="quote">"When life gives you lemons, make a cocktail."</p>
@@ -60,7 +61,7 @@
       <div class="col-md-4">
         <div class="mediumspace"></div>
 
-        <div class='col-md-9 col-md-offset-2 text-center contact end'>
+        <div class='col-md-9 col-md-offset-2 text-center contact2 end'>
         <img src="img/douwe_225x300.png" height="250">
         <p>Douwe Schreuder</p>
         <p class="quote">"Assumption is the mother of all f#*! ups."</p>
