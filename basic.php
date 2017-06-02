@@ -10,7 +10,7 @@
 </div>
 
 <div class='double-slide'>
-   <div class='main'>
+   <div class='main flex'>
 	   <h2 class='flex-center'>BASIC</h2>
    </div>
    <div class='main'>
