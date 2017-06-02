@@ -211,7 +211,6 @@
 	</div>
 </div>
 
-<div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
 </div>
 
 
