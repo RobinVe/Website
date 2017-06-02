@@ -29,6 +29,7 @@ body{
 }
 
 .double-slide{
+	min-height: 100vh;
     .main:nth-of-type(1){
         display:flex;
         min-height: 50vh;
@@ -36,10 +37,28 @@ body{
         h2{
             color:$secondary;
         }
-
     }
     .main:nth-of-type(2){
         min-height: 50vh;
         background: $secondary;
     }
+}
+
+
+.vertical-slide{
+	.main:nth-of-type(1){
+		min-height: 100vh;
+		display:flex;
+
+
+	}
+	.main:nth-of-type(2){
+		min-height: 100vh;
+		display:flex;
+
+	}
+}
+
+.title-number{
+	margin-top: 105px;
 }

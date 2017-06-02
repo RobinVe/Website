@@ -135,13 +135,44 @@
        </div>
    </div>
 </div>
-<div class='single-slide' id='fourth-block'>
-   <div class="smallspace"></div>
-   <div class='col-md-10 col-md-offset-1 col-xs-12' >
-      <?php include('fullservice.php'); ?>
-   </div>
+<div class='double-slide vertical-slide' id='fourth-block'>
+	<div class='main col-md-6'>
+		<div class='row'>
+
+		<h2 class='text-center'>Wat betekent Full Service?</h2>
+
+		<div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
+			<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.<
+
+			360WEB biedt daarom een volledige ontzorging v.w.t. uw online performances.</p>
+
+			<p>U hoeft geen technische kennis te hebben of dure marketing experts in te schakelen. U rust automatisch mee op onze kennisbank en onze collega’s verzorgen continu de invulling van uw wensen. Of u nu 3x per een andere tekst wilt hebben of dat u behoefte heeft aan een nieuwe feature, alles kan!</p>
+
+			<p>Wanneer u complexere wensen heeft zoals bijvoorbeeld het koppelen van een CRM of leverancier software dan krijgt u korting die bij het pakket hoort.
+
+			Hieronder een duidelijk overzicht van de all-in service componenten per pakket:</p>
+		</div>
+		</div>
+	</div>
+	<div class='main col-md-6'>
+		<p>
+		Basic
+		Respondtime 4 werkuren
+
+
+		Het wijzigen van teksten
+
+		Aanpassingen voor e-mailboxen
+
+		Foto’s en video’s wijzigen
+
+		Pagina’s toevoegen, aanpassen of verwijderen
+
+		Google Analytics
+		</p>
+	</div>
+</div>
 </div>
 <div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
-<?php require 'footer.php'; ?>
 </div>
 </body>
