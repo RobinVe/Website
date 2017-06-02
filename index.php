@@ -161,10 +161,46 @@
 		</div>
 		</div>
 	</div>
-	<div class='main col-md-6'>
-		<div class='col-md-6 col-md-offset-6'>1</div>
-		<div class='col-md-6 '>2</div>
-		<div class='col-md-6 col-md-offset-6'>3</div>
+	<div class='main col-md-6 zebra'>
+		<div class='row stripe'>
+			<div class='col-md-6 col-md-offset-6'>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
+		<div class='row stripe'>
+			<div class='col-md-6 '>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
+		<div class='row stripe'>
+			<div class='col-md-6 col-md-offset-6'>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
 	</div>
 </div>
 
