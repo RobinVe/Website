@@ -38,7 +38,7 @@
                      <li> - </li>
                   </ul>
                </div>
-               <a href="https://www.360recruitment.nl/360web/starter" class="more-link">
+               <a href="<?php echo current_link();?>starter.php" class="more-link">
                   <div class='more-button'>
                      Bekijk
                   </div>
@@ -69,7 +69,7 @@
                      <li>+ 4 extra's</li>
                   </ul>
                </div>
-               <a href="https://www.360recruitment.nl/360web/basic" class="more-link">
+               <a href="<?php echo current_link();?>basic.php" class="more-link">
                   <div class='more-button'>
                      Bekijk
                   </div>
@@ -100,7 +100,7 @@
                      <li>+ 15 extra's</li>
                   </ul>
                </div>
-               <a href="https://www.360recruitment.nl/360web/premium" class="more-link">
+               <a href="<?php echo current_link();?>premium" class="more-link">
                   <div class='more-button'>
                      Bekijk
                   </div>
@@ -109,7 +109,7 @@
          </div>
       </div>
    </div>
-   <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="https://www.360recruitment.nl/360web/calculator">Klik hier!</a></div>
+   <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="<?php echo current_link();?>calculator.php">Klik hier!</a></div>
 </div>
 
 <div class='double-slide' id='Procces'>
