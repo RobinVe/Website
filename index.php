@@ -147,10 +147,10 @@
 	<div class='main col-md-6'>
 		<div class='row'>
 
-		<h2 class='text-center'>Wat betekent Full Service?</h2>
+		<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
 
 		<div class='col-md-6 col-md-offset-3 col-xs-12 '>
-			<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.<
+			<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.
 
 			360WEB biedt daarom een volledige ontzorging v.w.t. uw online performances.</p>
 
