@@ -112,7 +112,7 @@
 </div>
 
 <div class='double-slide' id='Procces'>
-   <div class='main'>
+   <div class='main flex'>
 	   <h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
    </div>
    <div class='main'>
@@ -163,8 +163,10 @@
 	</div>
 	<div class='main col-md-6 zebra'>
 		<div class='row stripe'>
-			<div class='col-md-6 col-md-offset-6'>
-				<h3 class='text-center'>Basic</h3>
+			<div class='col-md-6'>
+				<h3 class='text-center'>Starter</h3>
+			</div>
+			<div class='col-md-6'>
 				<p>Respondtime 4 werkuren</p>
 				<ul>
 					<li>Het wijzigen van teksten</li>
@@ -172,33 +174,37 @@
 					<li>Foto’s en video’s wijzigen</li>
 					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
 					<li>Google Analytics</li>
-				<ul>
+				</ul>
 			</div>
 		</div>
 		<div class='row stripe'>
+			<div class='col-md-6'>
+				<h3 class='text-center'>Basic</h3>
+			</div>
 			<div class='col-md-6 '>
-				<h3 class='text-center'>Basic</h3>
-				<p>Respondtime 4 werkuren</p>
+				<p>Respondtime 2 werkuren</p>
 				<ul>
-					<li>Het wijzigen van teksten</li>
-					<li>Aanpassingen voor e-mailboxen</li>
-					<li>Foto’s en video’s wijzigen</li>
-					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
-					<li>Google Analytics</li>
-				<ul>
+					<li>Basic plus</li>
+					<li>Bekijk het gedrach van uw bezoekers</li>
+					<li>Google Analytics adviesrapporten op maat</li>
+					<li>Performance meetingen en proactief</li>
+					<li>Extra Backups</li>
+				</ul>
 			</div>
 		</div>
 		<div class='row stripe'>
-			<div class='col-md-6 col-md-offset-6'>
-				<h3 class='text-center'>Basic</h3>
-				<p>Respondtime 4 werkuren</p>
+			<div class='col-md-6'>
+				<h3 class='text-center'>Premium</h3>
+			</div>
+			<div class='col-md-6'>
+				<p>Respondtime 15 minuten binnen openingstijden</p>
 				<ul>
-					<li>Het wijzigen van teksten</li>
-					<li>Aanpassingen voor e-mailboxen</li>
-					<li>Foto’s en video’s wijzigen</li>
-					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
-					<li>Google Analytics</li>
-				<ul>
+					<li>Premium plus</li>
+					<li>Een eigen telefoonnummer</li>
+					<li>Een vast aanspreekpunt</li>
+					<li>Support voor externe software van de website</li>
+					<li>Customer Journey Advies rapporten</li>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -206,7 +212,7 @@
 
 <div class='double-slide vertical-slide' id='Full-Service'>
 	<div class='main col-md-6'>
-		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
+		<h2 class='text-center flex'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
 	</div>
 	<div class='main col-md-6'>
 		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
