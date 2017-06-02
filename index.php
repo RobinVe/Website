@@ -136,13 +136,12 @@
                <h2 class='text-center'>LIVE!</h2>
 
                <p>
-                   Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
+                  Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
                </p>
            </div>
        </div>
    </div>
 </div>
-<<<<<<< HEAD
 <div class='double-slide vertical-slide' id='fourth-block'>
 	<div class='main col-md-6'>
 		<div class='row'>
@@ -162,25 +161,48 @@
 		</div>
 		</div>
 	</div>
-	<div class='main col-md-6'>
-		<p>
-		Basic
-		Respondtime 4 werkuren
-
-
-		Het wijzigen van teksten
-
-		Aanpassingen voor e-mailboxen
-
-		Foto’s en video’s wijzigen
-
-		Pagina’s toevoegen, aanpassen of verwijderen
-
-		Google Analytics
-		</p>
+	<div class='main col-md-6 zebra'>
+		<div class='row stripe'>
+			<div class='col-md-6 col-md-offset-6'>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
+		<div class='row stripe'>
+			<div class='col-md-6 '>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
+		<div class='row stripe'>
+			<div class='col-md-6 col-md-offset-6'>
+				<h3 class='text-center'>Basic</h3>
+				<p>Respondtime 4 werkuren</p>
+				<ul>
+					<li>Het wijzigen van teksten</li>
+					<li>Aanpassingen voor e-mailboxen</li>
+					<li>Foto’s en video’s wijzigen</li>
+					<li>Pagina’s toevoegen, aanpassen of verwijderen</li>
+					<li>Google Analytics</li>
+				<ul>
+			</div>
+		</div>
 	</div>
 </div>
-=======
 
 <div class='double-slide vertical-slide' id='Full-Service'>
 	<div class='main col-md-6'>
@@ -189,7 +211,6 @@
 	<div class='main col-md-6'>
 		<h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
 	</div>
->>>>>>> origin/master
 </div>
 <div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
 </div>
