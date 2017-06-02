@@ -6,8 +6,8 @@
   <div class="col-md-12">
     <?php require 'navbar.php'; ?>
     <div class="largespace"></div>
-    <div class="vertical-slide">
     <div class="row">
+      <div class="vertical-slide">
       <div class="col-md-4">
         <div class='col-md-9 col-md-offset-1 text-center contact'>
         <img src="img/pf/Robin_nieuw-225x300.png">
