@@ -42,16 +42,7 @@ body{
 .vertical-slide{
 	.main:nth-of-type(1){
 		min-height: 100vh;
-<<<<<<< HEAD
-		display:flex;
-
-// <<<<<<< HEAD
-//
-// =======
-// >>>>>>> origin/master
-=======
 		display:block;
->>>>>>> origin/master
 	}
 	.main:nth-of-type(2){
 		min-height: 100vh;
@@ -64,7 +55,13 @@ body{
 	margin-top: 105px;
 }
 
+.smallspace{
+  height: 50px;
+}
 .mediumspace{
+  height: 120px;
+}
+.largespace{
   height: 250px;
 }
 
