@@ -1,10 +1,12 @@
 @import "colors";
 @import "text";
 
-#first-block{
-    background-image: url('../img/index_jumbo.jpg');
+#home{
+    background-image: url('../img/achtergrondweb_test.png');
     min-height: 100vh;
-
+	animation: fadein 2s;
+	background-position: center center;
+	background-repeat: no-repeat;;
 }
 
 .largespace{
