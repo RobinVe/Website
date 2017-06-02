@@ -9,8 +9,8 @@
            <span class="icon-bar"></span>
          </button>
        </div>
+	   <a class="navbar-brand" href="<?php echo current_link();?>index.php"><img class="center-block" src="<?php echo current_link();?>img/360web.png" height="175"></a>
        <div class="collapse navbar-collapse navbar" id="navbar-collapse-1">
-         <a class="navbar-brand" href="<?php echo current_link();?>index.php"><img class="center-block" src="<?php echo current_link();?>img/360web.png" height="175"></a>
          <ul class="nav navbar-nav">
            <li><a href="index.php">Home</a></li>
            <li><a href="portfolio.php">Portfolio</a></li>
