@@ -24,17 +24,6 @@
         <ul>
           <li><i class="fa fa-check" aria-hidden="true"></i> WordPress CMS </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Keuze uit Templates </li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
       <a href="https://www.360recruitment.nl/360web/basic">
@@ -54,11 +43,6 @@
           <li><i class="fa fa-check" aria-hidden="true"></i> 1 MYSQL Database </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Shared Server </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Domeinregistratie </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
         </ul>
       </div>
       <div class='col-md-10 col-md-offset-1 button3'>
@@ -72,14 +56,6 @@
         <ul>
           <li><i class="fa fa-check" aria-hidden="true"></i> 10 Emailboxen </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> 2 GB Email geheugen </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
         </ul>
       </div>
       <div class='col-md-10 col-md-offset-1 button3'>
@@ -92,15 +68,6 @@
       <div class='content col-md-10 col-md-offset-1'>
         <ul>
           <li><i class="fa fa-check" aria-hidden="true"></i> Full Service Support </li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
       <a href="https://www.360recruitment.nl/360web/premium">

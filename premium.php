@@ -30,11 +30,6 @@
         <li><i class="fa fa-check" aria-hidden="true"></i> Testimonials </li>
         <li><i class="fa fa-check" aria-hidden="true"></i> Google Maps </li>
         <li><i class="fa fa-check" aria-hidden="true"></i> Social Media deelbuttons </li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
       </ul>
     </div>
     <a href="https://www.360recruitment.nl/360web/starter">
@@ -54,11 +49,6 @@
         <li><i class="fa fa-check" aria-hidden="true"></i> 10 MYSQL Database </li>
         <li><i class="fa fa-check" aria-hidden="true"></i> VPN Server </li>
         <li><i class="fa fa-check" aria-hidden="true"></i> Domeinregistratie </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
       </ul>
     </div>
     <div class='col-md-10 col-md-offset-1 button3'>
@@ -72,14 +62,6 @@
       <ul>
         <li><i class="fa fa-check" aria-hidden="true"></i> 80 Emailboxen </li>
         <li><i class="fa fa-check" aria-hidden="true"></i> 35 GB Email geheugen </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
       </ul>
     </div>
     <div class='col-md-10 col-md-offset-1 button3'>

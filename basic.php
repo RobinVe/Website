@@ -26,15 +26,6 @@
           <li><i class="fa fa-check" aria-hidden="true"></i> Template met maatwerk </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Formulieren </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Social Media deelbuttons </li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
       <a href="https://www.360recruitment.nl/360web/starter">
@@ -54,11 +45,6 @@
           <li><i class="fa fa-check" aria-hidden="true"></i> 2 MYSQL Database </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> VPN Server </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Domeinregistratie </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
         </ul>
       </div>
       <div class='col-md-10 col-md-offset-1 button3'>
@@ -72,14 +58,6 @@
         <ul>
           <li><i class="fa fa-check" aria-hidden="true"></i> 40 Emailboxen </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> 10 GB Email geheugen </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
         </ul>
       </div>
       <div class='col-md-10 col-md-offset-1 button3'>
@@ -94,13 +72,6 @@
           <li><i class="fa fa-check" aria-hidden="true"></i> Full Service Support </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> Technische Zoekmachine Optimalisatie </li>
           <li><i class="fa fa-check" aria-hidden="true"></i> URL behoud</li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
       <a href="https://www.360recruitment.nl/360web/premium">
