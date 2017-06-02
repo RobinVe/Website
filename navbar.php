@@ -12,12 +12,12 @@
        <div class="collapse navbar-collapse navbar" id="navbar-collapse-1">
          <a class="navbar-brand" href="<?php echo current_link();?>index.php"><img class="center-block" src="<?php echo current_link();?>img/360web.png" height="175"></a>
          <ul class="nav navbar-nav">
-           <li><a href="index3.php">Home</a></li>
+           <li><a href="index.php">Home</a></li>
            <li><a href="portfolio.php">Portfolio</a></li>
            <li><a href="<?php echo current_link();?>index#prijzen">Prijzen</a></li>
            <li><a href="<?php echo current_link();?>index#full_Service">Full Service</a></li>
            <li><a href="overons.php">Over ons</a></li>
-           <li><a href="over_ons.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
+           <li><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
      </div>
