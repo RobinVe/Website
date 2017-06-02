@@ -141,7 +141,7 @@
 
 		<h2 class='text-center'>Wat betekent Full Service?</h2>
 
-		<div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
+		<div class='col-md-6 col-md-offset-3 col-xs-12 '>
 			<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.<
 
 			360WEB biedt daarom een volledige ontzorging v.w.t. uw online performances.</p>
@@ -175,4 +175,5 @@
 </div>
 <div class='back-to-top' id='back-to-top' title='Back to top'><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
 </div>
+<?php include('footer.php'); ?>
 </body>

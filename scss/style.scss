@@ -9,6 +9,9 @@ body{
 .flex-center{
     align-self: center;
     margin: auto;
+	&{
+		display:flex;
+	}
 }
 
 .single-slide{
