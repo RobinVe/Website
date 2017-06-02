@@ -6,6 +6,14 @@ body{
     background:$primary;
 }
 
+.flex{
+	display:flex;
+}
+
+.flex-center{
+	margin:auto;
+}
+
 .single-slide{
     min-height: 100vh;
     &:nth-of-type(even){
@@ -69,4 +77,9 @@ footer{
   position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+
+ul li{
+	list-style: none;
 }
