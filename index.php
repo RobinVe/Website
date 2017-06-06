@@ -4,7 +4,6 @@
 <div class="fluid-container">
    <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
-		<img src='../img/achtergrondweb_test.png'>
       <div class='visible-xs'>
           <h1 class='text-center'>Profesionele website vanaf 499,-</p>
       </div>
