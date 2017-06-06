@@ -27,6 +27,7 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 25px;
 	position: absolute;
+	left:0px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -48,4 +49,8 @@
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
+}
+
+.navbar-brand img {
+    height: 80px;
 }
