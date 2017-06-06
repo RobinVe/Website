@@ -209,6 +209,10 @@ line-height: 52px;
   color: #fff;
   text-decoration: none;
 }
+
+.zebra{
+  padding-top:10%;
+}
 .more-link:hover{
   text-decoration: none;
   color: #fff;
@@ -243,4 +247,7 @@ line-height: 52px;
 	.stripe:nth-of-type(odd){
 		background:$dark_white;
 	}
+}
+.fullservicetext{
+  padding-top:20%;
 }
