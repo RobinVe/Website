@@ -3,6 +3,7 @@
    <link href="css/overons.min.css" type="text/css" rel="stylesheet">
 </head>
 <div class="container-fluid">
+	<div class='row'>
       <?php require 'navbar.php'; ?>
          <div class="double-slide">
             <div class="main">
@@ -50,6 +51,7 @@
                         <p class="quote">"Assumption is the mother of all f#*! ups."</p>
 					</div>
                </div>
+         </div>
          </div>
          </div>
    </div>

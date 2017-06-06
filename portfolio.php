@@ -3,7 +3,6 @@
 <style>
 </style>
 <div class="container-fluid">
-	<div class='row'>
    <?php require 'navbar.php'; ?>
 </div>
 <div class='double-slide'>
@@ -49,8 +48,6 @@
       </div>
    </div>
 </div>
-</div>
-
 <?php require 'footer.php'; ?>
 </div>
 </body>
