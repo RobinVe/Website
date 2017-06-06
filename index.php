@@ -2,6 +2,7 @@
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
 <style></style>
 <div class="container-fluid">
+  <div class="row">
    <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
         <div class="col-md-12">
@@ -9,6 +10,7 @@
           <h1 class='text-center maintitle flex-center'>Professionele websites vanaf 499,-</p>
       </div>
       </div>
+   </div>
    </div>
 </div>
 
