@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
 <style></style>
-<div class="fluid-container">
+<div class="container-fluid">
    <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
         <div class="col-md-12">
