@@ -218,7 +218,7 @@ color: white;
 }
 
 .zebra{
-  padding-top:10%;
+  // padding-top:10%;
 }
 .more-link:hover{
   text-decoration: none;
@@ -254,6 +254,11 @@ color: white;
 	.stripe:nth-of-type(odd){
 		background:$dark_white;
 	}
+}
+
+.stripe{
+    min-height: 33.333vh;
+        padding-top: 8%;
 }
 .fullservicetext{
   padding-top:20%;
