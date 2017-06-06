@@ -116,7 +116,7 @@
 </div>
 
 <div class='double-slide' id='Procces'>
-   <div class='main flex topside'>
+   <div class='main flex topside fixheight'>
 	   <h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
    </div>
    <div class='main'>
