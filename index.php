@@ -122,7 +122,7 @@
    <div class='main'>
        <div class='col-md-10 col-md-offset-1'>
            <div class='col-md-4'>
-			   <div class='circleheader center-block'><h1 class='center-block title-number'>1.</h1></div>
+			   <div class='circleheader center-block'><h1 class='center-block text-center title-number'>1.</h1></div>
 
                <h2 class='text-center'>KIES HET PRODUCT</h2>
                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p> <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
