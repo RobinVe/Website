@@ -4,14 +4,14 @@
 <link rel="stylesheet" type="text/css" href="css/bullhorn.css">
 </head>
 
-
+<div class="container-fluid">
 <div class="page">
   <div class="double-slide">
     <div class="main">
   <div class='row'>
     <div class="mediumspace"></div>
     <div class='col-md-12 content col-lg-6 col-lg-offset-3'>
-      <img src="img/57ad39ddb8.png" class="center-block" style="height:150px; width:auto;">
+      <img src="img/57ad39ddb8.png" class="center-block" style="height:100px; width:auto;">
       <br>
 
       De ervaren gebruikers en engineers van 360WEB kunnen u helpen bij het realiseren van een optimale Bullhorn inrichting.<br>
@@ -24,7 +24,9 @@ Hieronder treft u onze vanaf prijzen:
 </div>
 </div>
 </div>
-<div class="main">
+<div class="row">
+<div class="main fixbackground">
+
 <div class="mediumspace"></div>
 <div class="col-md-9 col-md-offset-3">
       <div class='col-md-3'>
@@ -47,6 +49,9 @@ Hieronder treft u onze vanaf prijzen:
 </div>
 </div>
 </div>
+</div>
+</div>
+  </div>
   </div>
   </div>
 </div>
