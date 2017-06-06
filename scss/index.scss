@@ -134,7 +134,7 @@ line-height: 52px;
 
 .whole{
 	display: inline-block;
-  border: solid 1px #555;
+  border: solid 1px #f58a08;
       border-radius: 6px;
 }
 .type{
@@ -204,9 +204,12 @@ line-height: 52px;
   border-radius: 0 0 5px 5px;
   font-weight: bold;
   text-transform: uppercase;
+  transition: 0.3s all;
 }
 .more-button:hover{
-  background-color: #cc5c10;
+  background-color: #f58a08;
+transition: 0.3s all;
+color: white;
 }
 .more-link{
   font-size: 29px;
@@ -264,4 +267,29 @@ line-height: 52px;
 
 #Pakketten{
   background-color:white !important;
+  border-top: dashed 2px #f58a08;
+background-color: white;
+}
+
+#Procces{
+  border-top: dashed 2px #f58a08;
+background-color: white;
+}
+#Full-Service{
+  border-top: dashed 2px #f58a08;
+background-color: white;
+}
+
+.fullservicepara>p{
+  color:white;
+}
+
+.leftside{
+  background-image: url(../img/minimalmountains.jpg) !important;
+background-position: bottom !important;
+}
+
+.topside{
+  background-image: url(../img/minimalmountains.jpg) !important;
+    background-position: 100% 80% !important;
 }
