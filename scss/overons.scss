@@ -1,5 +1,5 @@
 .navbar-brand>img{
-  height:125px !important;
+  height:80px !important;
 }
 
 .contact>p{
@@ -15,5 +15,13 @@
 }
 
 .flex-center{
+	min-height: 50vh;
+}
+
+.navbar{
+	color:red;
+}
+
+.flex{
 	min-height: 50vh;
 }
