@@ -116,7 +116,7 @@
 </div>
 
 <div class='double-slide' id='Procces'>
-   <div class='main flex'>
+   <div class='main flex topside'>
 	   <h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
    </div>
    <div class='main'>
@@ -147,12 +147,12 @@
    </div>
 </div>
 <div class='double-slide vertical-slide' id='Full-Service'>
-	<div class='main col-md-6'>
+	<div class='main col-md-6 leftside'>
 		<div class='row'>
 
 		<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
 
-		<div class='col-md-6 col-md-offset-3 col-xs-12 '>
+		<div class='col-md-6 col-md-offset-3 col-xs-12 fullservicepara'>
 			<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.
 
 			360WEB biedt daarom een volledige ontzorging v.w.t. uw online performances.</p>
