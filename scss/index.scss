@@ -15,6 +15,7 @@ background-color:#f58a08;
 .maintext{
   background-color: rgba(255,104,0,0.8);
 }
+
 .popup{
     min-height:5vh;
     position:absolute;
@@ -132,6 +133,8 @@ line-height: 52px;
 
 .whole{
 	display: inline-block;
+  border: solid 1px #555;
+      border-radius: 6px;
 }
 .type{
   width: 400px;
@@ -254,4 +257,10 @@ line-height: 52px;
 
 .maintitle{
   font-weight: 500;
+  color:white !important;
+  font-size: 4em;
+}
+
+#Pakketten{
+  background-color:white !important;
 }
