@@ -273,18 +273,13 @@ color: white;
 // background-color: white;
 }
 
-#Procces{
-  border-top: dashed 2px #f58a08;
-	background-color: white;
-}
-#Full-Service{
-  	border-top: dashed 2px #f58a08;
+#Procces, #Full-Service{
+
 	background-color: white;
 }
 
 .fullservicepara p{
-  color:white;
-  font-size: 1.5em;
+  color:$secondary;
 }
 
 .leftside{
@@ -325,4 +320,10 @@ ul li span{
   color:white;
   position:relative;
   top:45vh;
+}
+
+@media screen and (max-width:769px){
+	.topside{
+		display: flex !important;
+	}
 }
