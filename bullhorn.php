@@ -10,7 +10,7 @@
     <div class="main">
   <div class='row'>
     <div class="mediumspace"></div>
-    <div class='col-md-12 content col-lg-6 col-lg-offset-3'>
+    <div class='col-md-12 content bullhorntext col-lg-6 col-lg-offset-3'>
       <img src="img/57ad39ddb8.png" class="center-block" style="height:100px; width:auto;">
       <br>
 
