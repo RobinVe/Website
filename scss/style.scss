@@ -59,8 +59,10 @@ footer{
 		position: relative;
 		bottom: 0px;
 		display: inline-block;
+		padding: 5px;
 		p{
 			text-align: center;
+			margin: 0px;
 		}
 
 	}
@@ -155,4 +157,8 @@ ul li{
 
 .bullhorntext{
   color:white;
+}
+
+.customText1{
+	min-height: 40vh;
 }

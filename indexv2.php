@@ -120,20 +120,21 @@
    </div>
    <div class='main'>
        <div class='col-md-10 col-md-offset-1 flex' style='min-height:50vh;'>
-           <div class='col-md-4 col-xs-12 flex-center'>
-			   <div class='circleheader center-block'><h1 class='center-block text-center title-number'>1.</h1></div>
+           <div class='col-md-4 col-xs-12 flex-center customText1'>
+			   <div class='circleheader center-block'>
+			<h1 class='center-block text-center title-number'>1.</h1></div>
 
                <h2 class='text-center'>KIES HET PRODUCT</h2>
                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p> <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
            </div>
-           <div class='col-md-4 col-xs-12 flex-center'>
+           <div class='col-md-4 col-xs-12 flex-center customText1'>
 			   <h1 class='title-number text-center'>2.</h1>
                <h2 class='text-center'>U STUURT DE CONTENT</h2>
                <p>
                   Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat.
 			   </p>
            </div>
-           <div class='col-md-4 col-xs-12 flex-center'>
+           <div class='col-md-4 col-xs-12 flex-center customText1'>
 			   <h1 class='title-number text-center'>3.</h1>
                <h2 class='text-center'>LIVE!</h2>
 
