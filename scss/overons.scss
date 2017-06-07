@@ -1,3 +1,5 @@
+@import "colors";
+
 .contact>p{
   color:white;
   font-size: 17px;
@@ -18,4 +20,52 @@
 
 .flex .flex-center img{
 	border-radius: 4px;
+}
+
+.main .qoute-box{
+	border-radius: 4px;
+	padding:10px;
+}
+
+.text-block{
+	padding:10px;
+		p{
+			font-size: 1.1em;
+		}
+		p:nth-of-type(1){
+			font-weight: bold;
+		}
+}
+
+
+.main:nth-of-type(1){
+	.qoute-box{
+		background:$secondary;
+
+		.text-block{
+			padding:10px;
+			p{
+				color:$primary;
+			}
+		}
+
+	}
+}
+
+.main:nth-of-type(2){
+	.qoute-box{
+		background:$primary;
+
+		.text-block{
+			padding:10px;
+			p{
+				color:$secondary;
+			}
+		}
+
+	}
+}
+
+.text-block{
+	padding:5px;
 }
