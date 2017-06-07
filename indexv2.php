@@ -12,8 +12,6 @@
       </div>
       </div>
    </div>
-   </div>
-</div>
 
 <div class='single-slide' id="Pakketten">
    <div class='col-md-12 col-xs-12 block-back'>
@@ -226,6 +224,8 @@
 </div>
 
 </div>
+</div>
+
 
 
 <?php include('footer.php'); ?>

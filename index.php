@@ -214,8 +214,8 @@
 	</div>
 </div>
 
+<?php include('footer.php'); ?>
 </div>
 
 
-<?php include('footer.php'); ?>
 </body>

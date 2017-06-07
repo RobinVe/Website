@@ -32,6 +32,12 @@ body{
     }
 }
 
+footer{
+  position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 @media screen and (max-width:769px){
 	.navbar-header{
 		width: 95vw;
@@ -39,6 +45,27 @@ body{
 	.single-slide{
 		display: inline-block;
 	}
+
+	.flex{
+		display:inline-block;
+	}
+
+	.flex-center{
+		text-align: center;
+		padding:20px;
+	}
+	footer{
+		background:$secondary;
+		position: relative;
+		bottom: 0px;
+		display: inline-block;
+		p{
+			text-align: center;
+		}
+
+	}
+
+
 }
 
 
@@ -70,11 +97,7 @@ body{
 	}
 }
 
-footer{
-  position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+
 
 
 ul li{
