@@ -6,8 +6,9 @@
    <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
         <div class="col-md-12">
-          <div class="flex" style="height:100vh">
+          <div class="flex" style="height:100vh"></h1>
           <h1 class='text-center maintitle flex-center'>Professionele websites vanaf 499,-</p>
+            <a class="ghost" href="#Pakketten">Prijzen</a>
       </div>
       </div>
    </div>

@@ -7,7 +7,7 @@
 	animation: fadein 2s;
 	background-position: center center;
 	background-repeat: no-repeat;;
-	background-image: url('../img/background.jpg');
+	background-image: url('../img/arrowbackground.jpg');
 }
 
 .largespace{
@@ -316,4 +316,11 @@ ul li span{
 	position: relative;
 	top: -5px;
 	left:5px;
+}
+
+.ghost{
+  border:solid 3px white;
+  padding: 20px 60px ;
+  font-size: 20px;
+  color:white;
 }
