@@ -169,6 +169,8 @@
 		<div class='row stripe'>
 			<div class='col-md-6'>
 				<h3 class='text-center'>Starter</h3>
+        <img class="center-block" src="img/starter.png" height="30">
+
 			</div>
 			<div class='col-md-6'>
 				<p>Respondtime 4 werkuren</p>
@@ -189,6 +191,8 @@
 		<div class='row stripe'>
 			<div class='col-md-6'>
 				<h3 class='text-center'>Basic</h3>
+        <img class="center-block" src="img/basic.png" height="30">
+
 			</div>
 			<div class='col-md-6 '>
 				<p>Respondtime 2 werkuren</p>
@@ -204,6 +208,8 @@
 		<div class='row stripe'>
 			<div class='col-md-6'>
 				<h3 class='text-center'>Premium</h3>
+        <img class="center-block" src="img/premium.png" height="30">
+
 			</div>
 			<div class='col-md-6'>
 				<p>Respondtime 15 minuten binnen openingstijden</p>
