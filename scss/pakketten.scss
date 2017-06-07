@@ -1,8 +1,83 @@
+@import "colors";
+@import "text";
 body{
   background-color: #fff;
 }
 .fa-check{
   color: rgb(19, 177, 20);
+}
+.content-left{
+		background: #ffffff;
+		min-height: 100vh;
+		padding: 0px;
+		padding-top: 290px;
+}
+
+.content-right{
+	background-color: #f58a08;
+	min-height: 100vh;
+}
+
+.content-block{
+	position: relative;
+	top: -50px;
+	padding-top: 10vh;
+}
+
+p, h1, h3,label{
+	color:white;
+
+}
+
+p, label{
+	font-size: 1.1em;
+	font-weight: 400;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.single-block{
+	background-color: #f58a08;
+	min-height: 50vh;
+}
+
+input{
+	min-height:6vh;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+h1, .underline{
+	margin-top:0px;
+		margin-bottom: 0px;
+}
+
+.btn-default{
+	width: 100%;
+	background: #0872f5;
+	border: #0872f5 solid 4px;
+	border-radius: 4px;
+	transition: 0.5s all;
+}
+
+	.btn-default:hover, .btn-default:active{
+		background: #ffffff;
+		border: white solid 4px;
+
+	}
+	.btn-default:hover>p, .btn-default:active>p{
+		color:#f58a08;
+	}
+button p{
+	font-size: 1.5em;
+}
+
+.second-row p, .second-row h3{
+	color: #6e6e6e;
+}
+
+body {
+background: #ffffff ;
 }
 .content{
       background-color: #fff;
@@ -115,4 +190,42 @@ line-height: 72px;
         border-right: 1px solid #f58a08;
 
   }
+}
+
+h3{
+	color:$primary;
+}
+.zebra .stripe{
+	min-height: 80vh;
+}
+
+.zebra{
+	.stripe:nth-of-type(odd){
+		background:$dark_white;
+		color:$secondary;
+	}
+}
+.zebra-even{
+	.stripe:nth-of-type(even){
+		background:#ffffff;
+	}
+}
+
+.content-block p{
+	color: #5c5c5c;
+}
+
+ul{
+	padding:0px;
+}
+
+ul li span {
+    position: relative;
+    top: -5px;
+    left: 5px;
+}
+
+.fa-check-circle-o {
+    color: $primary;
+    font-size: 2em;
 }
