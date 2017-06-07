@@ -17,7 +17,7 @@
            <li><a href="<?php echo current_link();?>index.php#Pakketten">Prijzen</a></li>
            <li><a href="<?php echo current_link();?>index.php#Full-Service">Full Service</a></li>
            <li><a href="overons.php">Over ons</a></li>
-           <li><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
+           <li class="bullhornknop"><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
      </div>

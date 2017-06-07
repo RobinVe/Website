@@ -325,4 +325,14 @@ ul li span{
   color:white;
   position:relative;
   top:45vh;
+  transition: 0.5s all;
+}
+
+.ghost:hover{
+  color:white;
+  text-decoration: none;
+  text-shadow: 2px 2px rgb(124, 73, 6);
+  transition: 0.5s all;
+  box-shadow: 1px 1px rgba(124, 73, 6,0.3);
+
 }
