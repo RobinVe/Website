@@ -115,7 +115,7 @@
 
 
 .content>ul>li{
-border-bottom: 1px solid #494a5a;
+border-bottom: 1px solid $primary;
 padding: 0px;
 margin: 0px;
 text-align: center;
@@ -138,8 +138,8 @@ line-height: 52px;
   width: 400px;
   border-radius: 5px 5px 0px 0px;
   height: 62px;
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
+  background-color: $primary;
+  border-bottom: $primary solid 2px;
 }
 .type p{
   font-weight: 800;
@@ -159,17 +159,9 @@ line-height: 52px;
     color: black;
     text-align: center;
 }
-.standard{
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
-}
 
-.ultimate{
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
-}
 .header{
-	border-bottom: 1px solid #555;
+	border-bottom: 1px solid $primary;
 	padding-bottom: 39px;
 }
 
@@ -197,14 +189,14 @@ line-height: 52px;
   padding:0px;
 }
 .more-button{
-  background-color: #ff6800;
+  background-color: $primary;
   border-radius: 0 0 5px 5px;
   font-weight: bold;
   text-transform: uppercase;
   transition: 0.3s all;
 }
 .more-button:hover{
-  background-color: #f58a08;
+  background-color: darken($primary, 10%);
 transition: 0.3s all;
 color: white;
 }
@@ -297,8 +289,8 @@ background-position: bottom !important;
 }
 
 .flex .maintitle{
-	position: relative;
-top: -230px;
+// 	position: relative;
+// top: -230px;
 }
 
 .fa-check-circle-o{
@@ -312,24 +304,38 @@ ul li span{
 	top: -5px;
 	left:5px;
 }
+a{
+	text-decoration: none !important;
+	:hover{
+		text-decoration: none !important;
+	}
+}
 
 .ghost{
   border:solid 3px white;
-  padding: 20px 60px ;
-  font-size: 20px;
-  color:white;
-  position:relative;
-  top:45vh;
   transition: 0.5s all;
-}
-
-.ghost:hover{
-  color:white;
-  text-decoration: none;
-  text-shadow: 2px 2px rgb(124, 73, 6);
+  position: relative;
+  top: 10vh;
+  padding:  20px;
+  font-size: 2em;
   transition: 0.5s all;
-  box-shadow: 1px 1px rgba(124, 73, 6,0.3);
+  border-radius: 4px;
 
+  a p{
+	  color:$secondary;
+	  transition: 0.5s all;
+	  margin:10px;
+
+  }
+
+  &:hover{
+	background: $secondary;
+    box-shadow: 1px 1px rgba(124, 73, 6,0.3);
+
+	a p{
+		color:$primary;
+	}
+  }
 }
 
 // @media screen and (max-width:769px){
@@ -337,3 +343,35 @@ ul li span{
 // 		display: flex !important;
 // 	}
 // }
+
+.landing{
+	margin-top: 35vh;
+	h1, h3{
+		color:white !important;
+	}
+}
+
+// contact part
+#contact{
+	background:$primary;
+}
+
+.btn-default{
+	width: 100%;
+	background: #0872f5;
+	border: #0872f5 solid 4px;
+	border-radius: 4px;
+	transition: 0.5s all;
+}
+
+	.btn-default:hover, .btn-default:active{
+		background: #ffffff;
+		border: white solid 4px;
+
+	}
+	.btn-default:hover>p, .btn-default:active>p{
+		color:#f58a08;
+	}
+button p{
+	font-size: 1.5em;
+}

@@ -1,0 +1,10 @@
+$primary : #ffffff;
+$secondary : #5c5c5c;
+
+body{
+    background:$primary;
+}
+
+p{
+    color : darken($primary, 10%);
+}

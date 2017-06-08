@@ -1,20 +1,23 @@
 <?php require 'header.php'; ?>
 <link href="css/indexv2.min.css" type="text/css" rel='stylesheet'>
-<style></style>
 <div class="container-fluid">
   <div class="row">
    <div class='single-slide' id="home">
       <?php require 'navbar.php'; ?>
-        <div class="col-md-12">
-          <div class="flex" style="height:100vh"></h1>
-          <h1 class='text-center maintitle flex-center'>Professionele websites vanaf 499,-</p>
-            <a class="ghost" href="#Pakketten">Prijzen</a>
-      </div>
-      </div>
+    		<div class='landing content-block col-md-6 col-md-offset-3'>
+				<h1 class='text-center'>Professionele websites vanaf 499,-</h1>
+				<hr>
+				<h3 class='text-center'><i>Full Service, No Nonsens, en Innovatief</i></h3>
+			</div>
+			<div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>
+				<a href='indexv2.php#Pakketten'>
+					<p class='text-center'>Bekijk ons aanbod</p>
+				</a>
+			</div>
    </div>
 
 <div class='single-slide' id="Pakketten">
-   <div class='col-md-12 col-xs-12 block-back'>
+   <div class='col-md-12  block-back'>
       <div id="container">
          <div class="whole">
             <div class="type">
@@ -23,7 +26,7 @@
             <div class="plan">
                <div class="header">
                   <span>€</span>499
-                  <p class="month">€29 per maand</p>
+                  <p class="month">€35 per maand</p>
                </div>
                <div class="content">
                   <ul>
@@ -54,7 +57,7 @@
             <div class="plan">
                <div class="header">
                   <span>€</span>999
-                  <p class="month">€39 per maand</p>
+                  <p class="month">€69 per maand</p>
                </div>
                <div class="content">
                   <ul>
@@ -85,7 +88,7 @@
             <div class="plan">
                <div class="header">
                   <span>€</span>2.499
-                  <p class="month">€69 per maand</p>
+                  <p class="month">€129 per maand</p>
                </div>
                <div class="content">
                   <ul>
@@ -116,7 +119,7 @@
 
 <div class='double-slide' id='Procces'>
    <div class='main flex topside fixheight'>
-	   <h2 class='flex-center'>IN DRIE STAPPEN EEN GEWELDIGE WEBSITE</h2>
+	   <h2 class='flex-center'>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
    </div>
    <div class='main'>
        <div class='col-md-10 col-md-offset-1 flex' style='min-height:50vh;'>
@@ -125,13 +128,22 @@
 			<h1 class='center-block text-center title-number'>1.</h1></div>
 
                <h2 class='text-center'>KIES HET PRODUCT</h2>
-               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p> <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
+               <p>Gezien de diverse wensen hebben wij 3 pakketten vooraf voor u samengesteld.
+Kies een pakket dat past bij uw wensen.<br>
+Neem goed in overweging wat uw doelstellingen zijn en wat u wilt bieden voor uw bezoekers.<br>
+Wij helpen u graag wanneer u zelf niet weet wat het beste bij u past.<br>
+Neem gerust contact op met één van onze Client Succes Agents.
+</p>
            </div>
            <div class='col-md-4 col-xs-12 flex-center customText1'>
 			   <h1 class='title-number text-center'>2.</h1>
                <h2 class='text-center'>U STUURT DE CONTENT</h2>
                <p>
-                  Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat.
+				   Wij bieden de service om een nieuwe website binnen 4 werkuren op te leveren.<br>
+  Om onze oplevertijden te honoreren is het van belang dat u alle content goed voorbereid.<br>
+  Wij verzorgen een roadmap dat u stapje voor stapje begeleid door het proces.<br>
+  Dit onderdeel is het enige component waar u zelf in dient te investeren. Het kost u maximaal 3 werkuren. Mocht u vastlopen of geen idee hebben waar te starten en wat te schrijven bieden wij uiteraard een service aan waarbij één van onze communicatie specialisten dit onderwerp volledig van u ontzorgt.
+
 			   </p>
            </div>
            <div class='col-md-4 col-xs-12 flex-center customText1'>
@@ -139,7 +151,9 @@
                <h2 class='text-center'>LIVE!</h2>
 
                <p>
-                  Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
+				   Wanneer wij alle content binnen hebben gaan onze specialisten aan de slag. Afhankelijk van het pakket en extra diensten leveren wij de beta versie binnen 4 werkuren. Onze Client Succes Agents lopen samen met u door de beta versie heen en verrichten de laatste punten op de i.
+  Na uw akkoord staat de website binnen 20 minuten live en kunt u beginnen met de online kansen te benutten.
+
                </p>
            </div>
        </div>
@@ -223,6 +237,35 @@
 		</div>
 	</div>
 </div>
+<div class='row single-slide content-block' id='Contact'>
+		<div class='col-md-6 col-md-offset-3'>
+		<h1 class='text-center'>Neem Contact met ons op</h1>
+		<h3 class='text-center underline'>moet hier nog een underline?</h3>
+		<form>
+
+			<div class="form-group col-sm-6">
+			  <input type="text" class="form-control" id="exampleInputName2" placeholder="Voornaam">
+			  <input type="text" class="form-control" id="exampleInputName2" placeholder="Achternaam">
+			</div>
+
+			<div class="form-group col-sm-6">
+			  <input type="text" class="form-control" id="exampleInputName2" placeholder="Email">
+
+			  <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe">
+			</div>
+
+			<div class="form-group col-sm-12">
+			  <textarea class='form-control' placeholder="Bericht" rows="4"></textarea>
+			</div>
+			<div class="form-group col-sm-12">
+
+			<button type="submit" class="btn btn-default"><p>Versturen</p></button>
+		</div>
+
+		</form>
+	</div>
+</div>
+
 
 </div>
 </div>
