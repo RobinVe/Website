@@ -229,3 +229,12 @@ ul li span {
     color: $primary;
     font-size: 2em;
 }
+
+.first-block{
+	padding: 70px 0px;
+}
+
+.double-slide .main:nth-of-type(1) {
+    min-height: 60vh;
+    background: #f58a08;
+}

@@ -213,6 +213,12 @@ color: white;
   text-decoration: none;
   color: #fff;
 }
+.landing{
+	margin-top: 35vh;
+	h1, h3{
+		color:white !important;
+	}
+}
 @media screen and (max-width: 1025px){
   .type{
     width: 300px !important;
@@ -230,9 +236,15 @@ color: white;
     padding-top: 30%;
     font-size: 27px;
 }
-.arrow{
-  display: none;
-}
+	.arrow{
+	  display: none;
+	}
+	.landing{
+		margin-top: 20vh;
+	}
+	#home{
+		background-position: bottom center;
+	}
 }
 
 .main p{
@@ -344,34 +356,51 @@ a{
 // 	}
 // }
 
-.landing{
-	margin-top: 35vh;
-	h1, h3{
-		color:white !important;
+
+.customtextblock{
+	background-color : red !important;
+	min-height: 80px;
+	color:red
+}
+// contact part
+#Contact{
+	background:$primary !important;
+	h1,h3{
+		color:$secondary;
+	}
+	h1{
+		font-weight: bold;
+	}
+	h3{
+		margin-top: 3px;
 	}
 }
 
-// contact part
-#contact{
-	background:$primary;
+form{
+	input{
+		min-height: 6vh;
+		margin-top: 20px;
+		margin-bottom: 0px;
+	}
 }
 
-.btn-default{
+.btn-contact{
 	width: 100%;
 	background: #0872f5;
 	border: #0872f5 solid 4px;
 	border-radius: 4px;
-	transition: 0.5s all;
-}
-
-	.btn-default:hover, .btn-default:active{
-		background: #ffffff;
-		border: white solid 4px;
-
+	transition: 0.2s all;
+	p{
+		color:$secondary;
+		font-size: 1.8em;
+		margin:10px;
 	}
-	.btn-default:hover>p, .btn-default:active>p{
-		color:#f58a08;
+	&:hover{
+		$bgcolor : darken(#0872f5, 10%);
+		background: $bgcolor;
+		border: $bgcolor solid 4px;
+		p{
+			color:darken($secondary, 10%);
+		}
 	}
-button p{
-	font-size: 1.5em;
 }
