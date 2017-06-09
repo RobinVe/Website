@@ -59,7 +59,7 @@
                      <img class='center-block' src="img/michelle_225x300.png" height="250">
                      <div class='text-block'>
                         <p class='text-center'>Michelle Vrolijk</p>
-                        <p class="text-center">"When life gives you lemons, make a cocktail."</p>
+                        <p class="text-center">"The only time succes comes before work, is in the dictionary."</p>
                      </div>
                   </div>
                </div>
@@ -94,7 +94,7 @@
                      <img class='center-block' src="img/Max_255x300.jpg" height="250">
                      <div class='text-block'>
                         <p class='text-center'>Max Portengen</p>
-                        <p class="text-center">"When life gives you lemons, make a cocktail."</p>
+                        <p class="text-center">"Let them hate. Just make sure they spell your name right."</p>
                      </div>
                   </div>
                </div>
@@ -105,7 +105,7 @@
                      <img class='center-block' src="img/Mustafa_255x300.jpg" height="250">
                      <div class='text-block'>
                         <p class='text-center'>Mustafa Oru&ccedil;</p>
-                        <p class="text-center">"Assumption is the mother of all f#*! ups."</p>
+                        <p class="text-center">"I'm working on myself and by myself."</p>
                      </div>
                   </div>
                </div>
