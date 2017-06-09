@@ -246,6 +246,11 @@ color: white;
 	#home{
 		background-position: bottom center;
 	}
+
+	.fixheight h2{
+		position: relative;
+		top: 18vh;
+	}
 }
 
 .main p{
@@ -408,7 +413,7 @@ form{
 
 .ghost>p{
   color:white;
-  transition: 0.3s all; 
+  transition: 0.3s all;
 }
 
 .ghost>p:hover{
