@@ -405,3 +405,15 @@ form{
 		}
 	}
 }
+
+.ghost>p{
+  color:white;
+}
+
+.ghost>p:hover{
+  color: #f58a08;
+}
+
+.ghost:hover{
+  color: #f58a08;
+}

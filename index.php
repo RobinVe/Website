@@ -9,11 +9,11 @@
             <hr>
             <h3 class='text-center'><i>Full Service, No Nonsens, en Innovatief</i></h3>
          </div>
+         <a href='indexv2.php#Pakketten'>
          <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>
-            <a href='indexv2.php#Pakketten'>
                <p class='text-center'>Bekijk ons aanbod</p>
-            </a>
          </div>
+       </a>
       </div>
       <div class='single-slide' id="Pakketten">
 		  <div class='row'>
