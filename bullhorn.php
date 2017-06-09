@@ -9,7 +9,7 @@
   <div class="double-slide">
     <div class="main">
   <div class='row'>
-    <div class='col-md-12 content bullhorntext col-lg-4 col-lg-offset-4'>
+    <div class='col-md-12 content bullhorntext text-center col-lg-6 col-lg-offset-3'>
       <img src="img/57ad39ddb8.png" class="center-block" style="height:100px; margin-top:20px; margin-bottom:20px; width:auto;">
 
 		      De ervaren gebruikers en engineers van 360WEB kunnen u helpen bij het realiseren van een optimale Bullhorn inrichting.<br>
@@ -26,7 +26,7 @@
 <div class="main fixbackground">
 
 <div class="mediumspace"></div>
-<div class="col-md-9 col-md-offset-3">
+<div class="col-md-10 col-md-offset-2">
       <div class='col-md-3'>
         <div class="col-md-11 block">
             <h3 class="text-center">€2.500</h3>
