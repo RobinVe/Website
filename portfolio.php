@@ -7,40 +7,40 @@
 </div>
 <div class='double-slide'>
    <div class='main flex'>
-      <h2 class='flex-center'>PORTFOLIO</h2>
+      <h2 class='flex-center porttitle'>PORTFOLIO</h2>
    </div>
    <div class='main'>
       <div class='col-md-10 col-md-offset-1'>
 		  <div class='row space-row'>
          <div class="col-md-4 overlay">
             <a href="https://www.360recruitment.nl">
+            <img class="portfolio center-block" src="img/360thumb.png">
+            </a>
+         </div>
+         <div class="col-md-4 overlay">
+            <a href="#">
             <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
             </a>
          </div>
          <div class="col-md-4 overlay">
-            <a href="https://www.360recruitment.nl">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
-            </a>
-         </div>
-         <div class="col-md-4 overlay">
-            <a href="https://www.360recruitment.nl">
+            <a href="#">
             <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
             </a>
          </div>
 	 </div>
 	 <div class='row space-row'>
          <div class="col-md-4 overlay">
-            <a href="https://www.360recruitment.nl">
+            <a href="#">
             <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
             </a>
          </div>
          <div class="col-md-4 overlay">
-            <a href="https://www.360recruitment.nl">
+            <a href="#">
             <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
             </a>
          </div>
          <div class="col-md-4 overlay">
-            <a href="https://www.360recruitment.nl">
+            <a href="#">
             <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
             </a>
          </div>
