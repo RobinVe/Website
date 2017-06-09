@@ -65,7 +65,7 @@
 		padding:0px;
 	}
 	.in .navbar-nav, .collapsing .navbar-nav{
-		background: #312424;
+		background: $primary;
 	    width: 100%;
 	    display: block;
 
@@ -73,6 +73,10 @@
 	    margin: 0px;
 	    padding: 0px;
 	    width: 100vw;
+		margin-top:5vh;
+		li{
+			border-bottom: solid 2px white;
+		}
 	}
 
 }
