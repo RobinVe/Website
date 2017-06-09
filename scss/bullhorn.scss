@@ -21,3 +21,17 @@ h3{
 .smallspace{
 	height:40px;
 }
+
+@media screen and (max-width:425px){
+	.block{
+		margin-bottom: 10px;
+	}
+
+	.mediumspace{
+		height: 50px;
+	}
+		.spacemobiel{
+			height: 20px;
+		}
+
+}

@@ -22,7 +22,7 @@
 </div>
 </div>
 </div>
-<div class="row">
+<div class="row fixbackground">
 <div class="main fixbackground">
 
 <div class="mediumspace"></div>
@@ -31,18 +31,23 @@
         <div class="col-md-11 block">
             <h3 class="text-center">€2.500</h3>
             <p>Basis vacature integratie met de website</p>
+            <div class="spacemobiel"></div>
       </div>
       </div>
       <div class='col-md-3'>
         <div class="col-md-11 col-md-offset-1 block">
             <h3 class="text-center">€5.500</h3>
             <p>Vacature integratie + nieuwe website</p>
+            <div class="spacemobiel"></div>
+
       </div>
       </div>
       <div class='col-md-3'>
         <div class="col-md-11 col-md-offset-1 block">
             <h3 class="text-center">€7.900</h3>
             <p>Volledige eigen stijl inclusief een Bootstrap website</p>
+            <div class="spacemobiel"></div>
+
       </div>
 </div>
 </div>
