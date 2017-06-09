@@ -104,7 +104,7 @@
                            <li>+ 15 extra's</li>
                         </ul>
                      </div>
-                     <a href="<?php echo current_link();?>premium" class="more-link">
+                     <a href="<?php echo current_link();?>premium.php" class="more-link">
                         <div class='more-button'>
                            Bekijk
                         </div>
