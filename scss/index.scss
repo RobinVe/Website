@@ -7,6 +7,7 @@
 	animation: fadein 2s;
 	background-position: center center;
 	background-repeat: no-repeat;;
+	// background-image: url('../img/arrowbackground.jpg');
 	background-image: url('../img/background.jpg');
 }
 
@@ -66,7 +67,7 @@
   .titel3{
     font-size: 28px;
   }
-  
+
   .arrow {
     color: white;
     font-size: 80px;
@@ -115,7 +116,7 @@
 
 
 .content>ul>li{
-border-bottom: 1px solid #494a5a;
+border-bottom: 1px solid $primary;
 padding: 0px;
 margin: 0px;
 text-align: center;
@@ -138,8 +139,8 @@ line-height: 52px;
   width: 400px;
   border-radius: 5px 5px 0px 0px;
   height: 62px;
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
+  background-color: $primary;
+  border-bottom: $primary solid 2px;
 }
 .type p{
   font-weight: 800;
@@ -159,17 +160,9 @@ line-height: 52px;
     color: black;
     text-align: center;
 }
-.standard{
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
-}
 
-.ultimate{
-  background-color: #ff6800;
-  border-bottom: #a95319 solid 2px;
-}
 .header{
-	border-bottom: 1px solid #555;
+	border-bottom: 1px solid $primary;
 	padding-bottom: 39px;
 }
 
@@ -197,14 +190,14 @@ line-height: 52px;
   padding:0px;
 }
 .more-button{
-  background-color: #ff6800;
+  background-color: $primary;
   border-radius: 0 0 5px 5px;
   font-weight: bold;
   text-transform: uppercase;
   transition: 0.3s all;
 }
 .more-button:hover{
-  background-color: #f58a08;
+  background-color: darken($primary, 10%);
 transition: 0.3s all;
 color: white;
 }
@@ -220,6 +213,12 @@ color: white;
 .more-link:hover{
   text-decoration: none;
   color: #fff;
+}
+.landing{
+	margin-top: 35vh;
+	h1, h3{
+		color:white !important;
+	}
 }
 @media screen and (max-width: 1025px){
   .type{
@@ -238,9 +237,15 @@ color: white;
     padding-top: 30%;
     font-size: 27px;
 }
-.arrow{
-  display: none;
-}
+	.arrow{
+	  display: none;
+	}
+	.landing{
+		margin-top: 20vh;
+	}
+	#home{
+		background-position: bottom center;
+	}
 }
 
 .main p{
@@ -258,7 +263,7 @@ color: white;
         padding-top: 8%;
 }
 .fullservicetext{
-  padding-top:20%;
+	padding-top: 8%;
 }
 
 .maintitle{
@@ -273,17 +278,13 @@ color: white;
 // background-color: white;
 }
 
-#Procces{
-  border-top: dashed 2px #f58a08;
-background-color: white;
-}
-#Full-Service{
-  border-top: dashed 2px #f58a08;
-background-color: white;
+#Procces, #Full-Service{
+
+	background-color: white;
 }
 
-.fullservicepara>p{
-  color:white;
+.fullservicepara p{
+  color:$secondary;
 }
 
 .leftside{
@@ -298,4 +299,109 @@ background-position: bottom !important;
 
 .navbar-brand img {
     height: 125px;
+}
+
+.flex .maintitle{
+// 	position: relative;
+// top: -230px;
+}
+
+.fa-check-circle-o{
+	color:$primary;
+	font-size: 2em;
+}
+
+
+ul li span{
+	position: relative;
+	top: -5px;
+	left:5px;
+}
+a{
+	text-decoration: none !important;
+	:hover{
+		text-decoration: none !important;
+	}
+}
+
+.ghost{
+  border:solid 3px white;
+  transition: 0.5s all;
+  position: relative;
+  top: 10vh;
+  padding:  20px;
+  font-size: 2em;
+  transition: 0.5s all;
+  border-radius: 4px;
+
+  a p{
+	  color:$secondary;
+	  transition: 0.5s all;
+	  margin:10px;
+
+  }
+
+  &:hover{
+	background: $secondary;
+    box-shadow: 1px 1px rgba(124, 73, 6,0.3);
+
+	a p{
+		color:$primary;
+	}
+  }
+}
+
+// @media screen and (max-width:769px){
+// 	.topside{
+// 		display: flex !important;
+// 	}
+// }
+
+
+.customtextblock{
+	background-color : red !important;
+	min-height: 80px;
+	color:red
+}
+// contact part
+#Contact{
+	background:$primary !important;
+	h1,h3{
+		color:$secondary;
+	}
+	h1{
+		font-weight: bold;
+	}
+	h3{
+		margin-top: 3px;
+	}
+}
+
+form{
+	input{
+		min-height: 6vh;
+		margin-top: 20px;
+		margin-bottom: 0px;
+	}
+}
+
+.btn-contact{
+	width: 100%;
+	background: #0872f5;
+	border: #0872f5 solid 4px;
+	border-radius: 4px;
+	transition: 0.2s all;
+	p{
+		color:$secondary;
+		font-size: 1.8em;
+		margin:10px;
+	}
+	&:hover{
+		$bgcolor : darken(#0872f5, 10%);
+		background: $bgcolor;
+		border: $bgcolor solid 4px;
+		p{
+			color:darken($secondary, 10%);
+		}
+	}
 }

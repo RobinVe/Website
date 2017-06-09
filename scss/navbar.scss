@@ -61,6 +61,20 @@
 	.navbar-header{
 		width: 95vw;
 	}
+	.navbar{
+		padding:0px;
+	}
+	.in .navbar-nav, .collapsing .navbar-nav{
+		background: #312424;
+	    width: 100%;
+	    display: block;
+
+	    float: left;
+	    margin: 0px;
+	    padding: 0px;
+	    width: 100vw;
+	}
+
 }
 
 .bullhornknop{
