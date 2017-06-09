@@ -116,8 +116,11 @@
          <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="<?php echo current_link();?>calculator.php">Klik hier!</a></div>
       </div>
       <div class='double-slide' id='Procces' name='Proces'>
-         <div class='main flex topside fixheight'>
-            <h2 class='flex-center'>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
+         <div class='main flex topside fixheight col-md-12'>
+			 <div class='flex-center'>
+            <h2 class=''>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
+			<div class='ghost ghost-proces col-md-6 col-md-offset-3'><p>Ja ik heb hulp nodig</p></div>
+		</div>
          </div>
          <div class='main'>
             <div class='col-md-10 col-md-offset-1 flex' style='min-height:50vh;'>
