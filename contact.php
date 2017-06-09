@@ -72,7 +72,6 @@
             <h1 class='text-center'>Neem Contact met ons op</h1>
             <h3 class='text-center underline'>moet hier nog een underline?</h3>
             <form>
-
                 <div class="form-group col-sm-6">
                   <input type="text" class="form-control" id="exampleInputName2" placeholder="Voornaam">
                   <input type="text" class="form-control" id="exampleInputName2" placeholder="Achternaam">
@@ -80,17 +79,16 @@
 
                 <div class="form-group col-sm-6">
                   <input type="text" class="form-control" id="exampleInputName2" placeholder="Email">
-
                   <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe">
                 </div>
 
                 <div class="form-group col-sm-12">
                   <textarea class='form-control' placeholder="Bericht" rows="4"></textarea>
                 </div>
-                <div class="form-group col-sm-12">
 
-                <button type="submit" class="btn btn-default"><p>Versturen</p></button>
-            </div>
+				<div class="form-group col-sm-12">
+                	<button type="submit" class="btn btn-default"><p>Versturen</p></button>
+            	</div>
 
             </form>
         </div>

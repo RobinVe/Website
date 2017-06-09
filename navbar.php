@@ -1,6 +1,7 @@
 <body>
 <nav class="navbar-fluid navbar-default navbar-static-top col-md-12">
      <div class="container-fluid">
+		 <div class='row'>
        <div class="navbar-header">
          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
            <span class="sr-only">Toggle navigation</span>
@@ -21,5 +22,6 @@
            <li class="bullhornknop"><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
+     </div>
      </div>
    </nav>
