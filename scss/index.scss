@@ -408,12 +408,18 @@ form{
 
 .ghost>p{
   color:white;
+  transition: 0.3s all; 
 }
 
 .ghost>p:hover{
   color: #f58a08;
+  transition: 0.3s all;
 }
 
 .ghost:hover{
   color: #f58a08;
+  p{
+    color:#f58a08;
+    transition: 0.3s all;
+  }
 }
