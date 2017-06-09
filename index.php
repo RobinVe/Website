@@ -10,7 +10,7 @@
             <h3 class='text-center'><i>Full Service | No Nonsens | Innovatief</i></h3>
          </div>
          <a href='indexv2.php#Pakketten'>
-            <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>
+            <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost hidden-xs'>
                <p class='text-center'>Bekijk ons aanbod</p>
             </div>
          </a>
@@ -119,7 +119,7 @@
          <div class='main flex topside fixheight col-md-12'>
 			 <div class='flex-center'>
             <h2 class=''>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
-			<div class='ghost ghost-proces col-md-6 col-md-offset-3'><p>Ja ik heb hulp nodig</p></div>
+			<div class='ghost ghost-proces col-md-6 col-md-offset-3 hidden-xs'><a href='#Contact'><p>Ja ik heb hulp nodig</p></a></div>
 		</div>
          </div>
          <div class='main'>

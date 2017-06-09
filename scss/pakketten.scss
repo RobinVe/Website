@@ -238,6 +238,9 @@ ul li span {
     min-height: 60vh;
     background: #f58a08;
 }
+.double-slide .main:nth-of-type(2) {
+    min-height: 40vh;
+}
 
 .block-one{
 	margin-bottom: 20px;

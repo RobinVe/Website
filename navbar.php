@@ -13,12 +13,12 @@
        </div>
        <div class="collapse navbar-collapse navbar" id="navbar-collapse-1">
          <ul class="nav navbar-nav">
-           <li><a href="index.php">Home</a></li>
-           <li><a href="portfolio.php">Portfolio</a></li>
-           <li><a href="index.php#Pakketten">Pakketten</a></li>
-           <li><a href="index.php#Full-Service">Full Service</a></li>
-           <li><a href="overons.php">Over ons</a></li>
-           <li><a href="index.php#Contact">Contact</a></li>
+           <li><a href="<?php echo current_link();?>index.php">Home</a></li>
+           <li><a href="<?php echo current_link();?>portfolio.php">Portfolio</a></li>
+           <li><a href="<?php echo current_link();?>index.php#Pakketten">Pakketten</a></li>
+           <li><a href="<?php echo current_link();?>index.php#Full-Service">Full Service</a></li>
+           <li><a href="<?php echo current_link();?>overons.php">Over ons</a></li>
+           <li><a href="<?php echo current_link();?>index.php#Contact">Contact</a></li>
            <li class="bullhornknop"><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
