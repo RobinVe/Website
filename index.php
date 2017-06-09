@@ -1,9 +1,9 @@
 <?php require 'header.php'; ?>
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
 <div class="container-fluid">
-   <div class="row">
+	<div class='row'>
+	<?php require 'navbar.php'; ?>
       <div class='single-slide' id="home">
-         <?php require 'navbar.php'; ?>
          <div class='landing content-block col-md-6 col-md-offset-3'>
             <h1 class='text-center'>Professionele websites vanaf 499,-</h1>
             <hr>
@@ -16,7 +16,6 @@
        </a>
       </div>
       <div class='single-slide' id="Pakketten">
-		  <div class='row'>
          <div class='col-md-12  block-back'>
             <div id="container">
                <div class="whole">
@@ -113,7 +112,6 @@
                   </div>
                </div>
             </div>
-         </div>
          </div>
          <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="<?php echo current_link();?>calculator.php">Klik hier!</a></div>
       </div>
@@ -260,8 +258,9 @@
                   </button>
                </div>
             </form>
-         </div>
       </div>
+   </div>
+   </div>
    </div>
 </div>
 <?php include('footer.php'); ?>
