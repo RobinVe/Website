@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php
     if (isset($title)) {
-        echo "<title>360Web</title>";
-    } else {
         echo "<title>360Web | $title</title>";
+    } else {
+        echo "<title>360Web</title>";
     };
 
     ?>
