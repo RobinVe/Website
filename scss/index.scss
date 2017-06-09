@@ -427,6 +427,7 @@ form{
 .ghost>p{
   color:white;
   transition: 0.3s all;
+  margin: 0
 }
 
 .ghost>p:hover{
@@ -440,4 +441,8 @@ form{
     color:#f58a08;
     transition: 0.3s all;
   }
+}
+
+.customtextblock{
+	background:$dark_white;
 }

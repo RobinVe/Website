@@ -49,14 +49,8 @@
             <div class='col-md-10 col-md-offset-1'>
                <h3>Vormgeving</h3>
                <ul>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Bootstrap Platform</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Eigen design</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Formulieren</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Zoekfunctie</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Blog & Nieuwsberichten</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Testimonials</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Google Maps</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Social Media deelbuttons</span></li>
+                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>WordPress CMS</span></li>
+                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Keuze uit Templates</span></li>
                </ul>
             </div>
          </div>
