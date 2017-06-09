@@ -11,7 +11,7 @@
   <div class='row'>
     <div class='col-md-12 content bullhorntext text-center col-lg-6 col-lg-offset-3'>
       <img src="img/57ad39ddb8.png" class="center-block" style="height:100px; margin-top:20px; margin-bottom:20px; width:auto;">
-
+<div class="smallspace"></div>
 		      De ervaren gebruikers en engineers van 360WEB kunnen u helpen bij het realiseren van een optimale Bullhorn inrichting.<br>
 		Vanuit deze basis kan er gekeken worden wat uw specifieke wensen zijn voor de website en interne aangelegenheden.<br>
 		Denk bijvoorbeeld aan een geautomatiseerde vacature pagina die realtime gekoppeld staat met Bullhorn.<br>
