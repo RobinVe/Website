@@ -83,7 +83,7 @@
                      <img class='center-block' src="img/nuno.png" height="250">
                      <div class='text-block'>
                         <p class='text-center'>Nuno Oliveira Amaral</p>
-                        <p class="text-center">"My mothers says I'm special."</p>
+                        <p class="text-center">"My mommy says I'm special."</p>
                      </div>
                   </div>
                </div>

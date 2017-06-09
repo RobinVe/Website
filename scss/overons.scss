@@ -25,12 +25,13 @@
 .main .qoute-box{
 	border-radius: 4px;
 	padding:10px;
+  min-width: 430px;
 }
 
 .text-block{
 	padding:10px;
 		p{
-			font-size: 1.1em;
+			font-size: 1.0em;
 		}
 		p:nth-of-type(1){
 			font-weight: bold;
