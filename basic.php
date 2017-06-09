@@ -1,4 +1,5 @@
-<?php include('header.php'); ?>
+<?php $title = 'Basic pakket';
+ include('header.php'); ?>
 <?php include('navbar.php'); ?>
 <link href="css/pakketten.min.css" type="text/css" rel='stylesheet'>
 <head>

@@ -1,4 +1,5 @@
-<?php include('header.php'); ?>
+<?php $title = 'Bereken kosten';
+include('header.php'); ?>
 <?php include('navbar.php'); ?>
 <link href="css/calculator.min.css" rel="stylesheet">
 <div class='container-fluid'>

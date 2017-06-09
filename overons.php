@@ -1,4 +1,5 @@
-<?php require 'header.php'; ?>
+<?php $title = 'Over ons';
+ require 'header.php'; ?>
 <head>
    <link href="css/overons.min.css" type="text/css" rel="stylesheet">
 </head>

@@ -1,4 +1,5 @@
-<?php require 'header.php'; ?>
+<?php $title = 'Portfolio'; 
+require 'header.php'; ?>
 <link href="css/portfolio.min.css" type="text/css" rel='stylesheet'>
 <style>
 </style>

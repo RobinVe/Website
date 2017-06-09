@@ -1,4 +1,5 @@
-<?php include('header.php'); ?>
+<?php $title = 'Bullhorn';
+include('header.php'); ?>
 <?php include('navbar.php'); ?>
 <head>
 <link rel="stylesheet" type="text/css" href="css/bullhorn.min.css">
