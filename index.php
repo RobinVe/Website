@@ -238,8 +238,8 @@
       </div>
       <div id='Contact' class='single-slide flex' >
          <div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
-            <h1 class='text-center'>Neem Contact met ons op</h1>
-            <h3 class='text-center underline'>moet hier nog een underline?</h3>
+            <h1 class='text-center'>Neem contact met ons op!</h1>
+            <h3 class='text-center underline'>Binnen 1 werkdag nemen we contact met u op!</h3>
             <form>
                <div class="form-group col-sm-6">
                   <input type="text" class="form-control" id="exampleInputName2" placeholder="Voornaam">
