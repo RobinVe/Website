@@ -3,7 +3,7 @@
 <?php require 'navbar.php'; ?>
 <div class="container-fluid">
    <div class='row'>
-      <div class='single-slide' id="home">
+      <div class='single-slide' id="home" name='home'>
          <div class='landing content-block col-md-6 col-md-offset-3'>
             <h1 class='text-center'>Professionele websites vanaf 499,-</h1>
             <hr>
@@ -15,7 +15,7 @@
             </div>
          </a>
       </div>
-      <div class='single-slide' id="Pakketten">
+      <div class='single-slide' id="Pakketten" name='Pakketten'>
          <div class='col-md-12  block-back'>
             <div id="container">
                <div class="whole">
@@ -115,7 +115,7 @@
          </div>
          <div class='popup hidden-xs'><i class="fa fa-times" aria-hidden="true" id="hide"></i> Wilt u zelf een pakket samen stellen? <br><a href="<?php echo current_link();?>calculator.php">Klik hier!</a></div>
       </div>
-      <div class='double-slide' id='Procces'>
+      <div class='double-slide' id='Procces' name='Proces'>
          <div class='main flex topside fixheight'>
             <h2 class='flex-center'>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
          </div>
@@ -160,7 +160,7 @@
             </div>
          </div>
       </div>
-      <div class='double-slide vertical-slide' id='Full-Service'>
+      <div class='double-slide vertical-slide' id='Full-Service' name='Full-Service'>
          <div class='main col-md-6 leftside'>
             <div class='row'>
                <h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
@@ -236,7 +236,7 @@
             </div>
          </div>
       </div>
-      <div id='Contact' class='single-slide flex' >
+      <div class='single-slide flex' id='Contact' name='Contact' >
          <div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
             <h1 class='text-center'>Neem contact met ons op!</h1>
             <h3 class='text-center underline'>Binnen 1 werkdag nemen we contact met u op!</h3>

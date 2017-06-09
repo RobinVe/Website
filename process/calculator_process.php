@@ -52,7 +52,7 @@ while ($x <= 38) {
 }
 $totaal = number_format($totaal, 0, ',', '.');
 $result = array(
-    "price" => "$totaal"
+    price => "$totaal"
 );
 
 echo json_encode($result);

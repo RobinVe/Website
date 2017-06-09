@@ -34,20 +34,14 @@
 
 .navbar-default .navbar-nav>li>a {
     color: $secondary;
-    transition: 0.3s all;
     font-size: 25px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	transition: 0.2s all;
     &:hover{
         color: darken($primary, 20%);
     }
 }
 
-.navbar-nav>li>a:hover {
-    color: #f58a08 !important;
-    text-decoration: none;
-    transition: 0.3s all;
-    text-shadow: 3px 2px 2px rgba(36, 36, 36, 0.68);
-}
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
@@ -55,6 +49,11 @@
 
 .navbar-brand img {
     height: 80px;
+}
+
+.bullhornknop{
+  background-color: white;
+  border-radius: 0px 0px 0px 10px;
 }
 
 @media screen and (max-width:769px){
@@ -82,10 +81,9 @@
 		-webkit-box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 		box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 	}
+	.bullhornknop{
+	  background-color: white;
+	  border-radius: 0px 0px 10px 10px;
+	}
 
-}
-
-.bullhornknop{
-  background-color: white;
-  border-radius: 0px 0px 10px 10px;
 }

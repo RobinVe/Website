@@ -1,11 +1,4 @@
-<head>
-    <meta charset="utf-8">
-</head>
-<script
-  src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous">
- </script>
+
 <div class='container-fluid'>
     <div class='row'>
         <form enctype="multipart/form-data" id='form'>
@@ -111,22 +104,22 @@ $price_list = array(
 echo "<div class='col-md-3'><h3 class='text-center'>Design</h3>";
 foreach ($array_1 as $key => $value) {
     $price = $price_list[$key];
-    echo "<div class='option'><label><p>$value<input type='checkbox' name='optie$key' value='$key' ></p></label></div>";
+    echo "<div class='option'><label><p>$value</p></label> <label><p>$price</p></label><input class='center-block' type='checkbox' name='optie$key' value='$key' ></div>";
 }
 echo "</div><div class='col-md-3'><h3 class='text-center'>Techniek</h3>";
 foreach ($array_2 as $key => $value) {
     $price = $price_list[$key];
-    echo "<div class='option'><label><p>$value<input type='checkbox' name='optie$key' value='$key' ></p></label></div>";
+    echo "<div class='option'><label><p>$value</p></label> <label><p>$price</p></label><input class='center-block' type='checkbox' name='optie$key' value='$key' ></div>";
 }
 echo "</div><div class='col-md-3'><h3 class='text-center'>Techniek</h3>";
 foreach ($array_3 as $key => $value) {
     $price = $price_list[$key];
-    echo "<div class='option'><label><p>$value<input type='checkbox' name='optie$key' value='$key' ></p></label></div>";
+    echo "<div class='option'><label><p>$value</p></label> <label><p>$price</p></label><input class='center-block' type='checkbox' name='optie$key' value='$key' ></div>";
 }
 echo "</div><div class='col-md-3'><h3 class='text-center'>Overige Diensten</h3>";
 foreach ($array_4 as $key => $value) {
     $price = $price_list[$key];
-    echo "<div class='option'><label><p>$value<input type='checkbox' name='optie$key' value='$key' ></p></label></div>";
+    echo "<div class='option'><label><p>$value</p></label> <label><p>$price</p></label><input class='center-block' type='checkbox' name='optie$key' value='$key' ></div>";
 }
 echo "</div>";
 ?>
