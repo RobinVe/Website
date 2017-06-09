@@ -1,6 +1,7 @@
 <?php
-$title = 'Home';
-require 'header.php'; ?>
+    $title = 'Home';
+    require 'header.php';
+ ?>
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
 <?php require 'navbar.php'; ?>
 <div class="container-fluid">
