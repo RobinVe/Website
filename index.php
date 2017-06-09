@@ -7,7 +7,7 @@
          <div class='landing content-block col-md-6 col-md-offset-3'>
             <h1 class='text-center'>Professionele websites vanaf 499,-</h1>
             <hr>
-            <h3 class='text-center'><i>Full Service, No Nonsens, en Innovatief</i></h3>
+            <h3 class='text-center'><i>Full Service | No Nonsens | Innovatief</i></h3>
          </div>
          <a href='indexv2.php#Pakketten'>
             <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>

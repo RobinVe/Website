@@ -10,9 +10,8 @@
     <div class="main">
   <div class='row'>
     <div class="mediumspace"></div>
-    <div class='col-md-12 content bullhorntext col-lg-6 col-lg-offset-3'>
+    <div class='col-md-12 content bullhorntext col-lg-4 col-lg-offset-4'>
       <img src="img/57ad39ddb8.png" class="center-block" style="height:100px; width:auto;">
-      <br>
 
       De ervaren gebruikers en engineers van 360WEB kunnen u helpen bij het realiseren van een optimale Bullhorn inrichting.<br>
 Vanuit deze basis kan er gekeken worden wat uw specifieke wensen zijn voor de website en interne aangelegenheden.<br>

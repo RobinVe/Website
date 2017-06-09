@@ -8,7 +8,7 @@
 <div class='double-slide row'>
 	<div class='main first-block'>
  	   <div class='col-md-12'>
- 		   <div class='col-md-8 col-md-offset-2'>
+ 		   <div class='col-md-8 col-md-offset-2 parent-block'>
  			   <div class='col-md-5 block-one'>
  				   <h1 class='text-center'>Starter Pakket</h1>
  				   <p>
