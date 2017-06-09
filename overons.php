@@ -76,6 +76,41 @@
                </div>
             </div>
          </div>
+         <div class="main">
+            <div class="col-md-4 col-xs-12 flex">
+               <div class='flex-center'>
+                  <div class='qoute-box'>
+                     <img class='center-block' src="img/nuno.png" height="250">
+                     <div class='text-block'>
+                        <p class='text-center'>Nuno Oliveira Amaral</p>
+                        <p class="text-center">"My mothers says I'm special."</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-4 col-xs-12 flex">
+               <div class='flex-center'>
+                  <div class='qoute-box'>
+                     <img class='center-block' src="img/Max_255x300.jpg" height="250">
+                     <div class='text-block'>
+                        <p class='text-center'>Max Portengen</p>
+                        <p class="text-center">"When life gives you lemons, make a cocktail."</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-4 col-xs-12 flex">
+               <div class='flex-center'>
+                  <div class='qoute-box'>
+                     <img class='center-block' src="img/Mustafa_255x300.jpg" height="250">
+                     <div class='text-block'>
+                        <p class='text-center'>Mustafa Oru&ccedil;</p>
+                        <p class="text-center">"Assumption is the mother of all f#*! ups."</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
       </div>
    </div>
 </div>
