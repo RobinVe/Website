@@ -13,9 +13,15 @@
  				   <h1 class='text-center'>Basic Pakket</h1>
  				   <p>
  					   <i>
- 						   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit porttitor orci nec lacinia. Morbi nec malesuada lorem, vitae mattis mi. Mauris non tincidunt sapien. Aenean egestas commodo augue, scelerisque porta leo consequat vitae. Nullam ligula risus, vulputate vel scelerisque sit amet, eleifend et mi. Fusce ultricies massa id vestibulum scelerisque. Fusce sagittis eu quam eget mollis. Vestibulum scelerisque elit eu nibh efficitur volutpat. Quisque convallis nulla maximus magna consequat consequat. Nunc tincidunt diam id augue ultrices ornare. Etiam ultrices imperdiet dui a pulvinar.
+							 Voor wie?<br>
+ 						   Voor organisaties die veel traffic en klanten willen bedienen via de website en waarbij het beheer, indien gewenst, samen wordt gerealiseerd. Tevens draait de website op betrouwbare SSD servers voor een extra snel en vriendelijk gebruikt. De servers bevatten alle laatste beveiligings en programma versies die de functionaliteiten op de website optimaal laat functioneren.
  				   </p>
- 				   <p>Duis at augue a mi tempus dictum a et massa. Vestibulum quam orci, cursus sed tristique eget, consectetur eget lorem. Donec malesuada nunc nec venenatis gravida. Etiam tincidunt magna sagittis leo vulputate, ut vestibulum nisl tempor. Vestibulum nec nisi sodales, rutrum nisl non, tincidunt est. Integer quis consequat orci, id posuere turpis. Nullam ultrices aliquet consectetur.</i></p>
+ 				   <p>Wat is inbegrepen?<br>
+Volledige onderhoud en beheer en de mogelijkheid om een deel van het beheer zelfstandig te bedienen.
+Voor aanpassingen, wijzigingen of toevoegingen van pagina’s of media kunt u gewoon bellen of mailen en wij zetten het op uw website.
+De reactie- en verwerkingstijden bij het Starters pakket zijn 2 werkuren.
+Stock video’s en afbeeldingen zijn niet inbegrepen.
+</i></p>
  			   </div>
  			   <div class='col-md-5 col-md-offset-2 block-two'>
  				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>

@@ -13,9 +13,16 @@
  				   <h1 class='text-center'>Premium Pakket</h1>
  				   <p>
  					   <i>
- 						   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit porttitor orci nec lacinia. Morbi nec malesuada lorem, vitae mattis mi. Mauris non tincidunt sapien. Aenean egestas commodo augue, scelerisque porta leo consequat vitae. Nullam ligula risus, vulputate vel scelerisque sit amet, eleifend et mi. Fusce ultricies massa id vestibulum scelerisque. Fusce sagittis eu quam eget mollis. Vestibulum scelerisque elit eu nibh efficitur volutpat. Quisque convallis nulla maximus magna consequat consequat. Nunc tincidunt diam id augue ultrices ornare. Etiam ultrices imperdiet dui a pulvinar.
+               Voor wie?<br>
+               Dit Full Service Pakket is bedoeld voor zware en complexe websites. Ons platform is speciaal ontworpen om koppelingen te realiseren met uw leveranciers en CRM software.
+ Om de snelheid, veiligheid en maximale customer experience te behalen verzorgen wij het gehele beheer van de website. Middels een VPS server, bestaande uit meerder SSD’s en een SSL versleuteling garanderen we snelste beleving die er is.
+
  				   </p>
- 				   <p>Duis at augue a mi tempus dictum a et massa. Vestibulum quam orci, cursus sed tristique eget, consectetur eget lorem. Donec malesuada nunc nec venenatis gravida. Etiam tincidunt magna sagittis leo vulputate, ut vestibulum nisl tempor. Vestibulum nec nisi sodales, rutrum nisl non, tincidunt est. Integer quis consequat orci, id posuere turpis. Nullam ultrices aliquet consectetur.</i></p>
+ 				   <p>Wat is inbegrepen?<br>
+Volledige onderhoud, beheer en content management.
+U krijgt een dedicated telefoonnummer, e-mail adres met reactietijden van 15 minuten binnen kantooruren.
+Stock video’s en afbeeldingen zijn niet inbegrepen.
+</i></p>
  			   </div>
  			   <div class='col-md-5 col-md-offset-2 block-two'>
  				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>

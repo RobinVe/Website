@@ -17,9 +17,15 @@
  				   <h1 class='text-center'>Starter Pakket</h1>
  				   <p>
  					   <i>
- 						   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit porttitor orci nec lacinia. Morbi nec malesuada lorem, vitae mattis mi. Mauris non tincidunt sapien. Aenean egestas commodo augue, scelerisque porta leo consequat vitae. Nullam ligula risus, vulputate vel scelerisque sit amet, eleifend et mi. Fusce ultricies massa id vestibulum scelerisque. Fusce sagittis eu quam eget mollis. Vestibulum scelerisque elit eu nibh efficitur volutpat. Quisque convallis nulla maximus magna consequat consequat. Nunc tincidunt diam id augue ultrices ornare. Etiam ultrices imperdiet dui a pulvinar.
+               Voor wie?<br>
+Voor ondernemers of afdelingshoofden die geen tot weinig tijd of kennis hebben van websites en de wereld van internetmogelijkheden. Bedoeld voor ondernemers die een professionele online visitekaartje willen waar potentiele klanten snel en makkelijk hun gewenste informatie kunnen vinden.
+
  				   </p>
- 				   <p>Duis at augue a mi tempus dictum a et massa. Vestibulum quam orci, cursus sed tristique eget, consectetur eget lorem. Donec malesuada nunc nec venenatis gravida. Etiam tincidunt magna sagittis leo vulputate, ut vestibulum nisl tempor. Vestibulum nec nisi sodales, rutrum nisl non, tincidunt est. Integer quis consequat orci, id posuere turpis. Nullam ultrices aliquet consectetur.</i></p>
+ 				   <p>Wat is inbegrepen?<br>
+Het Starters Full Service Pakket betekent dat u geen verantwoording meer heeft voor het beheer of onderhoud van de website. Voor aanpassingen, wijzigingen of toevoegingen van pagina’s of media kunt u gewoon bellen of mailen en wij zetten het op uw website.
+De reactie- en verwerkingstijden bij het Starters pakket zijn 4 werkuren.
+Stock video’s en afbeeldingen zijn niet inbegrepen.
+</i></p>
  			   </div>
  			   <div class='col-md-5 col-md-offset-2 block-two'>
  				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>
