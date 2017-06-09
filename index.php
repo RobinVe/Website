@@ -1,8 +1,8 @@
 <?php require 'header.php'; ?>
 <link href="css/index.min.css" type="text/css" rel='stylesheet'>
+<?php require 'navbar.php'; ?>
 <div class="container-fluid">
-	<div class='row'>
-	<?php require 'navbar.php'; ?>
+   <div class='row'>
       <div class='single-slide' id="home">
          <div class='landing content-block col-md-6 col-md-offset-3'>
             <h1 class='text-center'>Professionele websites vanaf 499,-</h1>
@@ -10,10 +10,10 @@
             <h3 class='text-center'><i>Full Service, No Nonsens, en Innovatief</i></h3>
          </div>
          <a href='indexv2.php#Pakketten'>
-         <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>
+            <div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost'>
                <p class='text-center'>Bekijk ons aanbod</p>
-         </div>
-       </a>
+            </div>
+         </a>
       </div>
       <div class='single-slide' id="Pakketten">
          <div class='col-md-12  block-back'>
@@ -258,9 +258,8 @@
                   </button>
                </div>
             </form>
+         </div>
       </div>
-   </div>
-   </div>
    </div>
 </div>
 <?php include('footer.php'); ?>
