@@ -13,7 +13,7 @@
                      <img class='center-block' src="img/Robin_nieuw-225x300.png" height="250">
                      <div class='text-block'>
                         <p class='text-center'>Robin Veer</p>
-                        <p class="text-center">"You have to be perfect, to be amazing."</p>
+                        <p class="text-center">"Stay hungry. Stay foolish."</p>
                      </div>
                   </div>
                </div>
