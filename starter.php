@@ -30,13 +30,13 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
  			   <div class='col-md-5 col-md-offset-2 block-two'>
  				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>
  				   <form>
- 					   <div class="form-group col-sm-6">
- 						   <input type="text" class="form-control" name='voornaam' placeholder="Voornaam">
- 						   <input type="text" class="form-control" name='achternaam' placeholder="Achternaam">
+ 					   <div class="form-group col-md-12">
+ 						   <input type="text" class="col-sm-6 form-control" name='voornaam' placeholder="Voornaam">
+ 						   <input type="text" class="col-sm-6 form-control" name='achternaam' placeholder="Achternaam">
  					   </div>
- 					   <div class="form-group col-sm-6">
- 						   <input type="text" class="form-control" name='email' placeholder="Email">
- 						   <input type="text" class="form-control" name='bedrijfsnaam' placeholder="Bedrijfsnaam">
+ 					   <div class="form-group col-md-12">
+ 						   <input type="text" class="col-sm-6 form-control" name='email' placeholder="Email">
+ 						   <input type="text" class="col-sm-6 form-control" name='bedrijfsnaam' placeholder="Bedrijfsnaam">
  					   </div>
  					   <div class="form-group col-sm-12">
  						   <textarea class='form-control' placeholder="Bericht" rows="4"></textarea>
@@ -78,7 +78,7 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
          </div>
          <div class='col-md-3'>
             <div class='col-md-10 col-md-offset-1'>
-               <h3>Data</h3>
+               <h3>Email</h3>
                <ul>
                   <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>10 Emailboxen</span></li>
                   <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>2 GB Email geheugen</span></li>

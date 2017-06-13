@@ -8,6 +8,7 @@
 	background-position: center center;
 	background-repeat: no-repeat;;
 	// background-image: url('../img/arrowbackground.jpg');
+	background-size: cover;
 	background-image: url('../img/background.jpg');
 }
 
@@ -221,9 +222,10 @@ color: white;
 		color:white !important;
 	}
 	h1{
-		font-size: 4em;
+		font-size: 3.4em;
 	}
 }
+
 @media screen and (max-width: 1025px){
   .type{
     width: 300px !important;
@@ -255,6 +257,7 @@ color: white;
 		position: relative;
 		top: 18vh;
 	}
+
 }
 
 .main p{
@@ -403,26 +406,6 @@ form{
 	}
 }
 
-.btn-contact{
-	width: 100%;
-	background: #0872f5;
-	border: #0872f5 solid 4px;
-	border-radius: 4px;
-	transition: 0.2s all;
-	p{
-		color:$secondary;
-		font-size: 1.8em;
-		margin:10px;
-	}
-	&:hover{
-		$bgcolor : darken(#0872f5, 10%);
-		background: $bgcolor;
-		border: $bgcolor solid 4px;
-		p{
-			color:darken($secondary, 10%);
-		}
-	}
-}
 
 .ghost>p{
   color:white;
@@ -445,4 +428,23 @@ form{
 
 .customtextblock{
 	background:$dark_white;
+}
+
+@media screen and (max-width: 1368px){
+	.landing{
+		margin-top: 15vh;
+	}
+}
+
+@media screen and (max-width: 1445px){
+	.three-blocks{
+		margin-top:0px;
+	}
+	.rewards{
+		padding-left:0px;
+	}
+}
+
+.fullservicepara p{
+	font-size:1.3em;
 }

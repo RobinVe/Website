@@ -97,7 +97,7 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
          </div>
          <div class='col-md-3'>
             <div class='col-md-10 col-md-offset-1'>
-               <h3>Data</h3>
+               <h3>Email</h3>
                <ul>
                   <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>80 Emailboxen</span></li>
                   <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>35 GB Email geheugen</span></li>

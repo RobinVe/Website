@@ -170,3 +170,41 @@ ul li{
 .customText1{
 	min-height: 40vh;
 }
+
+.btn-contact{
+	width: 100%;
+	background: #0872f5;
+	border: #0872f5 solid 4px;
+	border-radius: 4px;
+	transition: 0.2s all;
+	p{
+		color:$secondary;
+		font-size: 1.8em;
+		margin:10px;
+	}
+	&:hover{
+		$bgcolor : darken(#0872f5, 10%);
+		background: $bgcolor;
+		border: $bgcolor solid 4px;
+		p{
+			color:darken($secondary, 10%);
+		}
+	}
+}
+
+
+
+.btn-succes{
+	background: #14b705 !important;
+	border: #14b705 solid 4px !important;
+	color:white !important;
+}
+.btn-fail{
+	background: #da0000 !important;
+	border: #da0000 solid 4px !important;
+	color:white !important;
+}
+
+button:active{
+	outline:none;
+}
