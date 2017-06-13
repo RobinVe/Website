@@ -1,4 +1,4 @@
-<?php $title = 'Portfolio'; 
+<?php $title = 'Portfolio';
 require 'header.php'; ?>
 <link href="css/portfolio.min.css" type="text/css" rel='stylesheet'>
 <style>
@@ -13,39 +13,56 @@ require 'header.php'; ?>
    <div class='main'>
       <div class='col-md-10 col-md-offset-1'>
 		  <div class='row space-row'>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="https://www.360recruitment.nl">
-            <img class="portfolio center-block" src="img/360thumb.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac.png">
             </a>
          </div>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="#">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac2.png">
             </a>
          </div>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="#">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac.png">
             </a>
          </div>
 	 </div>
 	 <div class='row space-row'>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="#">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac2.png">
             </a>
          </div>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="#">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac.png">
             </a>
          </div>
-         <div class="col-md-4 overlay">
+         <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
             <a href="#">
-            <img class="portfolio center-block" src="https://www.360recruitment.nl/360web/img/test.png">
+            <img class="img-responsive portfolio center-block" src="img/Mockup-imac2.png">
             </a>
          </div>
          </div>
+         <div class='row space-row'>
+               <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
+                  <a href="#">
+                  <img class="img-responsive portfolio center-block" src="img/Mockup-imac2.png">
+                  </a>
+               </div>
+               <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
+                  <a href="#">
+                  <img class="img-responsive portfolio center-block" src="img/Mockup-imac.png">
+                  </a>
+               </div>
+               <div class="col-md-6 col-lg-4 col-xs-6 col-sm-6 overlay">
+                  <a href="#">
+                  <img class="img-responsive portfolio center-block" src="img/Mockup-imac2.png">
+                  </a>
+               </div>
+          </div>
       </div>
    </div>
 </div>

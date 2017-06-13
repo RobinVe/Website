@@ -79,15 +79,19 @@
     background-color: $primary;
   }
 
-  .main:nth-of-type(1) .qoute-box{
+  .main:nth-of-type(odd) .qoute-box{
     background-color: $primary;
   }
 
-  .main:nth-of-type(1) .qoute-box .text-block p{
+  .main:nth-of-type(odd) .qoute-box .text-block p{
     color:white;
   }
 
   .text-block{
   min-width:0px;
+  }
+
+  .main .qoute-box{
+    min-width:0px;
   }
 }
