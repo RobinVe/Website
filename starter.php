@@ -32,13 +32,13 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
 				   <form class='form' enctype="multipart/form-data">
  	  				<div class="form-group col-md-12">
  	  					<input type="text" class="form-control" name='name' placeholder="Naam" required>
- 	  					<input type="text" class="form-control" name='telephone' placeholder="Email" required>
+						<input type="text" class="form-control" name='telephone' placeholder="Telefoon" required>
  	  				</div>
 
  	  				<div class="form-group col-md-12">
  	  					<textarea class='form-control' name='message' placeholder="Bericht" rows="4" required></textarea>
  	  				</div>
-					<inpuy type='hidden' name='pakket_type' value='starter'>
+					<input type='hidden' name='pakket_type' value='starter'>
  	  				<div class="form-group col-sm-12">
  	  					<button type="submit" class="btn-contact">
  	  						<p>Versturen</p>

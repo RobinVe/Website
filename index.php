@@ -170,7 +170,7 @@
 			</div>
 		</div>
 	</div>
-	<div class='double-slide vertical-slide' id='Full-Service' name='Full-Service' style='margin:0px;'>
+	<div class='double-slide vertical-slide row' id='Full-Service' name='Full-Service' style='margin:0px;'>
 		<div class='main col-md-6 leftside'>
 			<div class='row'>
 				<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
