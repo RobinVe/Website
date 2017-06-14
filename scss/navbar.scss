@@ -54,15 +54,18 @@
 .bullhornknop{
   background-color: white;
   border-radius: 0px 0px 0px 10px;
+  min-height: 55px;
 }
 
 @media screen and (max-width:769px){
 	.navbar-header{
 		width: 95vw;
 	}
+
 	.navbar{
 		padding:0px;
 	}
+
 	.in .navbar-nav, .collapsing .navbar-nav{
 		background: $primary;
 	    width: 100%;
@@ -77,15 +80,16 @@
 			border-bottom: solid 2px white;
 		}
 	}
+
 	.navbar-collapse{
 		-webkit-box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 		box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 	}
+
 	.bullhornknop{
 	  background-color: white;
 	  border-radius: 0px 0px 10px 10px;
 	  display: inline-block;
 	  width: 100%;
 	}
-
 }

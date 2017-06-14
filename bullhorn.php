@@ -22,7 +22,7 @@ include('header.php'); ?>
   		      <div class='uitlegtekst'>De ervaren gebruikers en engineers van 360WEB kunnen u helpen bij het realiseren van een optimale Bullhorn inrichting.<br>
   		Vanuit deze basis kan er gekeken worden wat uw specifieke wensen zijn voor de website en interne aangelegenheden.<br>
   		Denk bijvoorbeeld aan een geautomatiseerde vacature pagina die realtime gekoppeld staat met Bullhorn.<br>
-  		Of dat u bepaalde performances van uw team in kaart wenst te brengen zodat de resultaten verbeteren. Maar ook specifieke wensen als pop-ups, werkverlichting d.m.v. automatisering en interactieve statistiek zijn bij ons mogelijk.
+  		Of dat u bepaalde performances lkjhlkjhlkjhlkjhlkjvan uw team in kaart wenst te brengen zodat de resultaten verbeteren. Maar ook specifieke wensen als pop-ups, werkverlichting d.m.v. automatisering en interactieve statistiek zijn bij ons mogelijk.
   		De core van ons Bullhorn-team bestaat verschillende expertise. Vanuit directie, management en uitvoerend perspectief bekijken we de mogelijkheden. Zowel de software van Bullhorn als onze applicaties zijn zeer wendbaar en flexibel.
   		Onze specialisten zijn tevens Bullhorn Canvas gecertificeerd.
   		Hieronder treft u onze vanaf prijzen:
