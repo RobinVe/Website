@@ -1,0 +1,51 @@
+.block{
+	padding: 5px;
+	background: #f58a08;
+	border-radius: 4px;
+	color: white;
+	min-height: 15vh;
+	p{
+		text-align: center;
+		color:white;
+	}
+}
+
+.bullhorntext{
+	padding-top: 8vh;
+}
+
+h3{
+	color:white;
+}
+
+
+.uitlegtekst{
+	margin:auto;
+	text-align: center;
+	max-width: 105vh;
+}
+.double-slide .main:nth-of-type(1){
+	min-height: 40vh;
+}
+
+
+
+.main {
+		background-image: url(../img/water-effect-new.png);
+    background-size: cover;
+		height: 300px;
+	}
+
+@media screen and (max-width:425px){
+	.block{
+		margin-bottom: 10px;
+	}
+
+	.mediumspace{
+		height: 50px;
+	}
+		.spacemobiel{
+			height: 20px;
+		}
+
+}

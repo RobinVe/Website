@@ -25,23 +25,27 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
 </i></p>
  			   </div>
  			   <div class='col-md-5 col-md-offset-2 block-two'>
-				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>
-				  <form class='form' enctype="multipart/form-data">
-				   <div class="form-group col-md-12">
-					   <input type="text" class="form-control" name='name' placeholder="Naam" required>
-					   <input type="text" class="form-control" name='telephone' placeholder="Telefoon" required>
-				   </div>
+ 				   <h1 class='text-center'>Graag meer informatie ontvangen?</h1>
+ 				   <form>
+ 					   <div class="form-group col-sm-6">
+ 						   <input type="text" class="form-control" name='voornaam' placeholder="Voornaam">
+ 						   <input type="text" class="form-control" name='achternaam' placeholder="Achternaam">
+ 					   </div>
+ 					   <div class="form-group col-sm-6">
+ 						   <input type="text" class="form-control" name='email' placeholder="Email">
+ 						   <input type="text" class="form-control" name='bedrijfsnaam' placeholder="Bedrijfsnaam">
+ 					   </div>
+ 					   <div class="form-group col-sm-12">
+ 						   <textarea class='form-control' placeholder="Bericht" rows="4"></textarea>
+ 					   </div>
+ 					   <input type='hidden' value='basic'>
+ 					   <div class="form-group col-sm-12">
 
-				   <div class="form-group col-md-12">
-					   <textarea class='form-control' name='message' placeholder="Bericht" rows="4" required></textarea>
-				   </div>
-				   <input type='hidden' name='pakket_type' value='basic'>
-				   <div class="form-group col-sm-12">
-					   <button type="submit" class="btn-contact">
-						   <p>Versturen</p>
-					   </button>
-				   </div>
-			   </form>
+ 						   <button type="submit" class="btn btn-default">
+ 							   <p>Versturen</p>
+ 						   </button>
+ 					   </div>
+ 				   </form>
  			   </div>
  		   </div>
  	   </div>
@@ -92,5 +96,4 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
 		</div>
 	</div>
 </div>
-<script src='js/submit_pakket.js'></script>
 <?php include('footer.php'); ?>

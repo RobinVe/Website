@@ -295,7 +295,9 @@ color: white;
 	background-color: white;
 }
 
-
+.fullservicepara p{
+  color:$secondary;
+}
 
 .leftside{
   background-image: url(../img/minimalmountains.jpg) !important;
@@ -444,6 +446,5 @@ form{
 }
 
 .fullservicepara p{
-	font-size:1em;
-	color:$secondary;
+	font-size:1.3em;
 }
