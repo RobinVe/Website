@@ -10,7 +10,7 @@
 		<div class='landing content-block col-md-6 col-md-offset-3'>
 			<h1 class='text-center'>Professionele websites vanaf 499,-</h1>
 			<hr>
-			<h3 class='text-center'><i>Full Service | No Nonsens | Innovatief</i></h3>
+			<h3 class='text-center'><i>Full Service | No Nonsense | Innovatief</i></h3>
 		</div>
 		<a href='indexv2.php#Pakketten'>
 			<div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost hidden-xs'>
@@ -249,7 +249,7 @@
 	<div class='single-slide flex' id='Contact' name='Contact' >
 		<div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
 			<h1 class='text-center'>Neem contact met ons op!</h1>
-			<h3 class='text-center underline'>Binnen 15 werkdag nemen we contact met u op!</h3>
+			<h3 class='text-center underline'>Binnen 15 minuten nemen we contact met u op!</h3>
 			<form class='form' enctype="multipart/form-data">
 				<div class="form-group col-md-12">
 					<input type="text" class="form-control" name='name' placeholder="Naam" required>
