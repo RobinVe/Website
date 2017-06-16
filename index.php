@@ -7,7 +7,7 @@
 <div class="container-fluid">
 <div class='row'>
 	<div class='single-slide' id="home" name='home'>
-		<div class='landing content-block col-md-6 col-md-offset-3'>
+		<div class='landing content-block col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-3'>
 			<h1 class='text-center'>Professionele juridische ondersteuning vanaf €49,95 per maand</h1>
 			<hr>
 			<h3 class='text-center'><i>Arbeidsrecht en Onderneming | Bestuursrecht | CAO-recht | Contractenrecht | Incasso</i></h3>
