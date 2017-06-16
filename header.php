@@ -3,6 +3,7 @@
 <?php require('functions.php');?>
 
   <head>
+	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,6 +39,4 @@
     <link href="<?php echo current_link();?>css/navbar.min.css" rel="stylesheet">
     <link href="<?php echo current_link();?>css/style.min.css" rel="stylesheet">
 
-    <script src="<?php echo current_link();?>js/jquery-3.2.1.min.js"></script>
-	<script src="<?php echo current_link();?>js/bootstrap.min.js"></script>
   </head>
