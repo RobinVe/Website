@@ -19,6 +19,7 @@
            <li><a href="<?php echo current_link();?>index#Full-Service">Full Service</a></li>
            <li><a href="<?php echo current_link();?>overons">Over ons</a></li>
            <li><a href="<?php echo current_link();?>index#Contact">Contact</a></li>
+           <li class="bullhornknop"><a href="bullhorn"><img style='float:left;' src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"><span class='visible-xs' style='float:left;'>Bullhorn</span></a></li>
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
      </div>
