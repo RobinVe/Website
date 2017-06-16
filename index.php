@@ -125,7 +125,7 @@
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<div class='circleheader center-block'>
-							<h1 class='center-block text-center title-number'>1</h1>
+							<h1 class='center-block text-center title-number'></h1>
 						</div>
 						<h2 class='text-center'>ARBEIDSRECHT</h2>
 						<p>Het arbeidsrecht regelt de rechtsverhouding tussen werkgever en werknemer. Binnen het arbeidsrecht kunt u bij 360Legal onder andere terecht voor vragen over arbeidsovereenkomsten en arbeidsvoorwaarden, bijzondere bedingen, ontslag, reorganisaties, arbeidsongeschiktheid etc.
@@ -140,7 +140,7 @@
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
-						<h1 class='title-number text-center'>2</h1>
+						<h1 class='title-number text-center'></h1>
 						<h2 class='text-center'>ONDERNEMING</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lorem massa, semper lobortis ipsum eget, imperdiet lobortis nunc. Nunc tristique lectus eros, at rutrum metus luctus laoreet. Vivamus eget mattis elit. Sed consectetur sapien arcu. Nam id rutrum diam, nec consequat lectus. Mauris eget arcu faucibus, posuere nisl in, bibendum risus. Mauris id ultricies nunc. Maecenas dapibus finibus erat, ac tempus tortor vestibulum eget. Aliquam a dapibus dui. Curabitur consectetur ipsum nec maximus rhoncus. Etiam varius iaculis tincidunt. Praesent sed suscipit ligula. Phasellus est dolor, sodales et gravida in, tempor sed nisi. Curabitur accumsan luctus ipsum eget consectetur.
@@ -149,7 +149,7 @@
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
-						<h1 class='title-number text-center'>3</h1>
+						<h1 class='title-number text-center'></h1>
 						<h2 class='text-center'>BESTUURSRECHT!</h2>
 						<p>
 							Het bestuursrecht in Nederland regelt de rechtsverhouding tussen (rechts)personen en de overheid. 360Legal behandelt onder andere bestuurszaken op het gebied van de Wet Minimumloon, Arbeidsomstandighedenwet, Rij-en Rusttijden en de Wet Arbeid Vreemdelingen. U kunt bij ons terecht voor advies en bijstand wanneer u bijvoorbeeld problemen heeft met Inspectie SZW (Arbeidsinspectie), ILT en andere overheidsinstanties.
@@ -161,7 +161,7 @@
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<div class='circleheader center-block'>
-							<h1 class='center-block text-center title-number'>1</h1>
+							<h1 class='center-block text-center title-number'></h1>
 						</div>
 						<h2 class='text-center'>CAO-recht</h2>
 						<p>Naast het reguliere arbeidsrecht is 360Legal ook gespecialiseerd in CAO-recht, meer in het bijzonder binnen de transportsector en de uitzendbranche. Heeft u vragen over toepasselijke cao’s, problemen met de vakbond of controle-instanties? Dan bent u bij 360Legal aan het goede adres.
@@ -170,7 +170,7 @@
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
-						<h1 class='title-number text-center'>2</h1>
+						<h1 class='title-number text-center'></h1>
 						<h2 class='text-center'>CONTRACTENRECHT</h2>
 						<p>
 							Het civiele recht in Nederland regelt alle rechtsverhoudingen tussen burgers, zowel natuurlijke personen als rechtspersonen. Binnen het civiel recht kunt u bij 360Legal onder andere terecht voor contractenrecht, zoals bijvoorbeeld advies over (het opstellen van) samenwerkingsovereenkomsten, overeenkomsten van opdracht, aanneming van werk en algemene voorwaarden.
@@ -179,7 +179,7 @@
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
-						<h1 class='title-number text-center'>3</h1>
+						<h1 class='title-number text-center'></h1>
 						<h2 class='text-center'>INCASSO</h2>
 						<p>
 							Heeft u diensten verricht of werk geleverd, maar worden uw facturen niet betaald? Bij 360Legal kunt u terecht voor het binnenhalen van uw openstaande vorderingen op basis van no cure no pay.
@@ -209,7 +209,7 @@ Sinds 2017 ben ik werkzaam als bedrijfsjurist bij 360Recruitment, waarbij ik op 
 		<div class='main col-md-6 zebra'>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/starter.svg" height="30">
+					<img class="center-block" src="img/legal_starter.png" height="30">
 					<h3 class='text-center'>Starter</h3>
 				</div>
 				<div class='col-md-6'>
@@ -235,7 +235,7 @@ Sinds 2017 ben ik werkzaam als bedrijfsjurist bij 360Recruitment, waarbij ik op 
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/basic.svg" height="30">
+					<img class="center-block" src="img/legal_basic.png" height="30">
 					<h3 class='text-center'>Basic</h3>
 				</div>
 				<div class='col-md-6 '>
@@ -251,7 +251,7 @@ Sinds 2017 ben ik werkzaam als bedrijfsjurist bij 360Recruitment, waarbij ik op 
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/premium.svg" height="30">
+					<img class="center-block" src="img/legal_premium.png" height="30">
 					<h3 class='text-center'>Premium</h3>
 				</div>
 				<div class='col-md-6'>
