@@ -8,13 +8,13 @@
 <div class='row'>
 	<div class='single-slide' id="home" name='home'>
 		<div class='landing content-block col-md-6 col-md-offset-3'>
-			<h1 class='text-center'>Professionele websites vanaf 499,-</h1>
+			<h1 class='text-center'>Professionele juridische ondersteuning vanaf €49,95 per maand</h1>
 			<hr>
-			<h3 class='text-center'><i>Full Service | No Nonsense | Innovatief</i></h3>
+			<h3 class='text-center'><i>Arbeidsrecht en Onderneming | Bestuursrecht | CAO-recht | Contractenrecht | Incasso</i></h3>
 		</div>
 		<a href='indexv2.php#Pakketten'>
 			<div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost hidden-xs'>
-				<p class='text-center'>Bekijk ons aanbod</p>
+				<p class='text-center'>Bekijk onze Abonnementen</p>
 			</div>
 		</a>
 	</div>
@@ -27,21 +27,17 @@
 					</div>
 					<div class="plan">
 						<div class="header">
-							<span>€</span>499
-							<p class="month">€35 per maand</p>
+							<span>€</span>49,95
+							<p class="month">€49,95 per maand</p>
 						</div>
 						<div class="content">
 							<ul>
-								<li>WordPress CMS</li>
-								<li>Keuze uit Templates</li>
-								<li>5 GB Dataverkeer</li>
-								<li>8 GB Schrijfruimte</li>
-								<li>1 MYSQL Database</li>
-								<li>Shared Server</li>
-								<li>Domeinregistratie</li>
-								<li>10 Emailboxen</li>
-								<li>2 GB Email geheugen</li>
-								<li>Full Service Support</li>
+								<li>Inwinnen eerstelijns juridisch advies</li>
+								<li>Toegang tot kennisbank</li>
+								<li>Kortingen voorbeeldbrieven</li>
+								<li>Kortingen contracten</li>
+								<li>5 uren inclusief per jaar</li>
+								<li>5% korting op uurtarief</li>
 								<li> - </li>
 							</ul>
 						</div>
@@ -58,22 +54,19 @@
 					</div>
 					<div class="plan">
 						<div class="header">
-							<span>€</span>999
-							<p class="month">€69 per maand</p>
+							<span>€</span>99,95
+							<p class="month">€99,95 per maand</p>
 						</div>
 						<div class="content">
 							<ul>
-								<li>WordPress CMS</li>
-								<li>Template met maatwerk</li>
-								<li>15 GB Dataverkeer</li>
-								<li>25 GB Schrijfruimte</li>
-								<li>2 MYSQL Databases</li>
-								<li>VPN server</li>
-								<li>Domeinregistratie</li>
-								<li>40 Emailboxen</li>
-								<li>10 GB Email geheugen</li>
-								<li>Full Service Support</li>
-								<li>+ 4 extra's</li>
+								<li>Inwinnen eerstelijns juridisch advies</li>
+								<li>Toegang tot kennisbank</li>
+                                <li>Gratis standaard voorbeeldbrieven</li>
+                                <li>Gratis standaard contracten</li>
+								<li>Kortingen voorbeeldbrieven</li>
+								<li>Kortingen contracten</li>
+								<li>10 uren inclusief per jaar</li>
+								<li>7.5% korting op uurtarief</li>
 							</ul>
 						</div>
 						<a href="<?php echo current_link();?>basic.php" class="more-link">
@@ -89,23 +82,20 @@
 					</div>
 					<div class="plan">
 						<div class="header">
-							<span>€</span>2.499
-							<p class="month">€129 per maand</p>
+							<span>€</span>149,95
+							<p class="month">€149,95 per maand</p>
 						</div>
 						<div class="content">
 							<ul>
-								<li>Bootstrap Platform</li>
-								<li>Eigen design</li>
-								<li>Onbeperkte Dataverkeer</li>
-								<li>95 GB Schrijfruimte</li>
-								<li>10 MYSQL Databases</li>
-								<li>VPN server</li>
-								<li>Domeinregistratie</li>
-								<li>80 Emailboxen</li>
-								<li>35 GB Email geheugen</li>
-								<li>Dedicated Full Service Support</li>
-								<li>+ 15 extra's</li>
-							</ul>
+								<li>Inwinnen eerstelijns juridisch advies</li>
+								<li>Toegang tot kennisbank</li>
+                                <li>Gratis standaard voorbeeldbrieven</li>
+                                <li>Gratis standaard contracten</li>
+								<li>Kortingen maatwerk voorbeeldbrieven</li>
+								<li>Kortingen maatwerk contracten</li>
+								<li>20 uren inclusief per jaar</li>
+								<li>10% korting op uurtarief</li>
+								</ul>
 						</div>
 						<a href="<?php echo current_link();?>premium.php" class="more-link">
 							<div class='more-button'>
@@ -121,7 +111,7 @@
 	<div class='double-slide' id='Procces' name='Proces'>
 		<div class='main flex topside fixheight col-md-12'>
 			<div class='flex-center'>
-				<h2 class=''>BINNEN 4 UUR EEN COMPLETE WEBSITE</h2>
+				<h2 class=''>ONZE EXPERTISES</h2>
 				<div class='ghost ghost-proces col-md-6 col-md-offset-3 hidden-xs'>
 					<a href='#Contact'>
 						<p>Ja ik heb hulp nodig</p>
@@ -136,34 +126,62 @@
 						<div class='circleheader center-block'>
 							<h1 class='center-block text-center title-number'>1</h1>
 						</div>
-						<h2 class='text-center'>KIES HET PRODUCT</h2>
-						<p>Gezien de diverse wensen hebben wij 3 pakketten vooraf voor u samengesteld.
-							Kies een pakket dat past bij uw wensen.<br>
-							Neem goed in overweging wat uw doelstellingen zijn en wat u wilt bieden voor uw bezoekers.<br>
-							Wij helpen u graag wanneer u zelf niet weet wat het beste bij u past.<br>
-							Neem gerust contact op met één van onze Client Succes Agents.
+						<h2 class='text-center'>ARBEIDSRECHT</h2>
+						<p>Het arbeidsrecht regelt de rechtsverhouding tussen werkgever en werknemer. Binnen het arbeidsrecht kunt u bij 360Legal onder andere terecht voor vragen over arbeidsovereenkomsten en arbeidsvoorwaarden, bijzondere bedingen, ontslag, reorganisaties, arbeidsongeschiktheid etc.
+
+                        Naast regulier arbeidsrecht is 360Legal ook gespecialiseerd in internationaal arbeidsrecht. Heeft u bijvoorbeeld vragen over internationale werknemers of welk recht er van toepassing is op een (internationale) arbeidsovereenkomst, dan bent u bij 360Legal aan het juiste adres.
+
+                        U kunt bij 360Legal op het gebied van arbeidsrecht niet alleen terecht voor advies, maar ook voor bijstand bij onderhandelingen of gerechtelijke procedures op het gebied van (internationaal) arbeidsrecht.
+
+                        Naast arbeidsrechtelijke vragen kunt u bij 360Legal ook terecht voor daarmee verband houdende ondernemingsrechtelijke vraagstukken. Bijvoorbeeld voor advies over een overgang van onderneming, medezeggenschap, maar ook over het oprichten van een BV, de positie van de statutair directeur of het opstellen van managementovereenkomsten.
 						</p>
 					</div>
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>2</h1>
-						<h2 class='text-center'>U STUURT DE CONTENT</h2>
+						<h2 class='text-center'>ONDERNEMING</h2>
 						<p>
-							Wij bieden de service om een nieuwe website binnen 4 werkuren op te leveren.<br>
-							Om onze oplevertijden te honoreren is het van belang dat u alle content goed voorbereid.<br>
-							Wij verzorgen een roadmap dat u stapje voor stapje begeleid door het proces.<br>
-							Dit onderdeel is het enige component waar u zelf in dient te investeren. Het kost u maximaal 3 werkuren. Mocht u vastlopen of geen idee hebben waar te starten en wat te schrijven bieden wij uiteraard een service aan waarbij één van onze communicatie specialisten dit onderwerp volledig van u ontzorgt.
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lorem massa, semper lobortis ipsum eget, imperdiet lobortis nunc. Nunc tristique lectus eros, at rutrum metus luctus laoreet. Vivamus eget mattis elit. Sed consectetur sapien arcu. Nam id rutrum diam, nec consequat lectus. Mauris eget arcu faucibus, posuere nisl in, bibendum risus. Mauris id ultricies nunc. Maecenas dapibus finibus erat, ac tempus tortor vestibulum eget. Aliquam a dapibus dui. Curabitur consectetur ipsum nec maximus rhoncus. Etiam varius iaculis tincidunt. Praesent sed suscipit ligula. Phasellus est dolor, sodales et gravida in, tempor sed nisi. Curabitur accumsan luctus ipsum eget consectetur.
 						</p>
 					</div>
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>3</h1>
-						<h2 class='text-center'>LIVE!</h2>
+						<h2 class='text-center'>BESTUURSRECHT!</h2>
 						<p>
-							Wanneer wij alle content binnen hebben gaan onze specialisten aan de slag. Afhankelijk van het pakket en extra diensten leveren wij de beta versie binnen 4 werkuren. <br>Onze Client Succes Agents lopen samen met u door de beta versie heen en verrichten de laatste punten op de i.<br>
-							Na uw akkoord staat de website binnen 20 minuten live en kunt u beginnen met de online kansen te benutten.<br>
+							Het bestuursrecht in Nederland regelt de rechtsverhouding tussen (rechts)personen en de overheid. 360Legal behandelt onder andere bestuurszaken op het gebied van de Wet Minimumloon, Arbeidsomstandighedenwet, Rij-en Rusttijden en de Wet Arbeid Vreemdelingen. U kunt bij ons terecht voor advies en bijstand wanneer u bijvoorbeeld problemen heeft met Inspectie SZW (Arbeidsinspectie), ILT en andere overheidsinstanties.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='col-md-10 col-md-offset-1 flex' style='min-height:50vh;'>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+					<div classs='customtextblock col-md-10 col-md-offset-1'>
+						<div class='circleheader center-block'>
+							<h1 class='center-block text-center title-number'>1</h1>
+						</div>
+						<h2 class='text-center'>CAO-recht</h2>
+						<p>Naast het reguliere arbeidsrecht is 360Legal ook gespecialiseerd in CAO-recht, meer in het bijzonder binnen de transportsector en de uitzendbranche. Heeft u vragen over toepasselijke cao’s, problemen met de vakbond of controle-instanties? Dan bent u bij 360Legal aan het goede adres.
+						</p>
+					</div>
+				</div>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+					<div classs='customtextblock col-md-10 col-md-offset-1'>
+						<h1 class='title-number text-center'>2</h1>
+						<h2 class='text-center'>CONTRACTENRECHT</h2>
+						<p>
+							Het civiele recht in Nederland regelt alle rechtsverhoudingen tussen burgers, zowel natuurlijke personen als rechtspersonen. Binnen het civiel recht kunt u bij 360Legal onder andere terecht voor contractenrecht, zoals bijvoorbeeld advies over (het opstellen van) samenwerkingsovereenkomsten, overeenkomsten van opdracht, aanneming van werk en algemene voorwaarden.
+						</p>
+					</div>
+				</div>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+					<div classs='customtextblock col-md-10 col-md-offset-1'>
+						<h1 class='title-number text-center'>3</h1>
+						<h2 class='text-center'>INCASSO</h2>
+						<p>
+							Heeft u diensten verricht of werk geleverd, maar worden uw facturen niet betaald? Bij 360Legal kunt u terecht voor het binnenhalen van uw openstaande vorderingen op basis van no cure no pay.
 						</p>
 					</div>
 				</div>
@@ -173,14 +191,16 @@
 	<div class='double-slide vertical-slide row' id='Full-Service' name='Full-Service' style='margin:0px;'>
 		<div class='main col-md-6 leftside'>
 			<div class='row'>
-				<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
+				<h2 class='text-center fullservicetext'>OVER ONS</h2>
 				<div class='col-md-6 col-md-offset-3 col-xs-12 fullservicepara'>
-					<p>U bent ondernemer en u bent daar goed in. Wij weten als geen ander dat tijd maar één keer besteed kan worden en dat u dient te focussen op uw organisatiedoelstellingen.
-						360WEB biedt daarom een volledige ontzorging v.w.t. uw online performances.
-					</p>
-					<p>U hoeft geen technische kennis te hebben of dure marketing experts in te schakelen. U rust automatisch mee op onze kennisbank en onze collega’s verzorgen continu de invulling van uw wensen. Of u nu 3x per een andere tekst wilt hebben of dat u behoefte heeft aan een nieuwe feature, alles kan!</p>
-					<p>Wanneer u complexere wensen heeft zoals bijvoorbeeld het koppelen van een CRM of leverancier software dan krijgt u korting die bij het pakket hoort.
-						Hiernaast een duidelijk overzicht van de all-in service componenten per pakket:
+					<p>Mr. Michelle Vrolijk
+
+Mijn naam is Michelle Vrolijk. Van 2010 tot en met 2013 ben ik werkzaam geweest als paralegal binnen de advocatuur. Na het afronden van mijn rechtenstudie met specialisatie arbeidsrecht ben ik van 2013 tot en met 2016 werkzaam geweest als advocaat, waarbij ik mij voornamelijk bezig heb gehouden met het bijstaan van ondernemers op het gebied van algemeen civiel recht (zoals overeenkomsten en algemene voorwaarden), arbeidsrecht en daarmee samenhangende ondernemingsrechtelijke vraagstukken, bestuursrecht (zoals bedrijfsinspecties) en (economisch) strafrecht.
+
+Meer in het bijzonder ben ik gespecialiseerd in cao-recht en internationaal arbeidsrecht, met name in de transportsector en de uitzendbranche. Als advocaat heb ik veel grote transportondernemingen en uitzendbureaus bijgestaan in internationale (cao-)kwesties. Denk hierbij bijvoorbeeld aan het onderhandelen met en procederen tegen de vakbond en controle-instanties.
+
+Sinds 2017 ben ik werkzaam als bedrijfsjurist bij 360Recruitment, waarbij ik op zowel juridisch als operationeel vlak mijn werkzaamheden nog meer vanuit ondernemersoogpunt ben gaan benaderen. In die hoedanigheid werd ik steeds vaker geconfronteerd met vragen van opdrachtgevers over de dagelijkse juridische gang van zaken binnen hun organisatie, vaak op gebied van arbeid en personeel. Al snel begon het toch weer te kriebelen om deze ondernemers te kunnen adviseren en bij te staan. En zo ontstond 360Legal. Vanuit 360Legal biedt ik op een laagdrempelige en toegankelijke manier juridisch advies en bijstand aan zowel grote als kleine ondernemingen. En dat op een inzichtelijke manier en in klare taal.
+
 					</p>
 				</div>
 			</div>
@@ -188,7 +208,7 @@
 		<div class='main col-md-6 zebra'>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/starter.png" height="30">
+					<img class="center-block" src="img/starter.svg" height="30">
 					<h3 class='text-center'>Starter</h3>
 				</div>
 				<div class='col-md-6'>
@@ -214,7 +234,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/basic.png" height="30">
+					<img class="center-block" src="img/basic.svg" height="30">
 					<h3 class='text-center'>Basic</h3>
 				</div>
 				<div class='col-md-6 '>
@@ -230,7 +250,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/premium.png" height="30">
+					<img class="center-block" src="img/premium.svg" height="30">
 					<h3 class='text-center'>Premium</h3>
 				</div>
 				<div class='col-md-6'>
