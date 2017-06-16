@@ -13,15 +13,6 @@
        </div>
        <div class="collapse navbar-collapse navbar" id="navbar-collapse-1">
          <ul class="nav navbar-nav">
-<<<<<<< HEAD
-           <li><a href="<?php echo current_link();?>index.php">Home</a></li>
-           <li><a href="<?php echo current_link();?>portfolio.php">Portfolio</a></li>
-           <li><a href="<?php echo current_link();?>index.php#Pakketten">Pakketten</a></li>
-           <li><a href="<?php echo current_link();?>index.php#Full-Service">Full Service</a></li>
-           <li><a href="<?php echo current_link();?>overons.php">Over ons</a></li>
-           <li><a href="<?php echo current_link();?>index.php#Contact">Contact</a></li>
-           <li class="bullhornknop"><a href="bullhorn.php"><img src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"></a></li>
-=======
            <li><a href="<?php echo current_link();?>">Home</a></li>
            <li><a href="<?php echo current_link();?>portfolio">Portfolio</a></li>
            <li><a href="<?php echo current_link();?>index#Pakketten">Pakketten</a></li>
@@ -29,7 +20,6 @@
            <li><a href="<?php echo current_link();?>overons">Over ons</a></li>
            <li><a href="<?php echo current_link();?>index#Contact">Contact</a></li>
            <li class="bullhornknop"><a href="bullhorn"><img style='float:left;' src="<?php echo current_link();?>img/BH-bull-orange.png" height="25"><span class='visible-xs' style='float:left;'>Bullhorn</span></a></li>
->>>>>>> master
          </ul><!--/.nav-collapse -->
        </div><!--/.nav-collapse -->
      </div>

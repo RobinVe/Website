@@ -7,11 +7,8 @@
 	<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
-=======
 	<meta name="keywords" content="goedkope website, goedkope websites, goedkope webshops Bullhorn, goedkope webshop, Bullhorn koppeling, goedkope logo, Bullhorn website, webdevelopment">
 
->>>>>>> master
 	<?php
     if (isset($title)) {
         echo "<title>360Web | $title</title>";
