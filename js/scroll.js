@@ -2,16 +2,20 @@ $(document).ready(function(){$("a").on("click",function(o){if(""!==this.hash){o.
 
 
 
-var imageList = ['http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_schilder.jpg'];
+var imageList = ['http://localhost/Website/img/background.jpg','http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_schilder.jpg'];
 var x = 0;
 
-while(x <= imageList.length){
-	$('#home').fadeTo('slow', 0.3, function(){
-	    $(this).css('background-image', 'url('.imageList[x].')');
-	}).fadeTo('slow', 1);
-x++;
+function homeSlider(x){
+	var url = imageList[x];
 
-if(x >= imageList.length){
-	x = 0;
+	$('#home').fadeTo('slow', 0.3, function(){
+		$(this).css('background-image', "url("+url+")");
+	}).fadeTo('slow', 1).delay(1000);
+	x++;
+	if(x > imageList.length){
+		x = 1;
+	}
+	console.log('Hey X is '+x);
 }
-}
+
+window.setInterval(homeSlider(x),2000);

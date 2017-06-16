@@ -6,3 +6,4 @@
 </footer>
 
 <script src="<?php echo current_link();?>js/essentials.js"></script>
+<script src="<?php echo current_link();?>js/slider.js"></script>

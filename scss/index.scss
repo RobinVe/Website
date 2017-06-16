@@ -420,6 +420,10 @@ form {
 	background: $dark_white;
 }
 
+.three-blocks div{
+	min-height: 40vh;
+}
+
 @media screen and (max-width: 1368px) {
 	.landing {
 		margin-top: 15vh;
