@@ -4,7 +4,5 @@
 		<p>© 360Web | <?php echo date('Y');?> | Diamantlaan 41, Hoofddorp 2132 WV<p>
 	</div>
 </footer>
-<script src="<?php echo current_link();?>js/jquery-3.2.1.min.js"></script>
-<script src="<?php echo current_link();?>js/bootstrap.min.js"></script>
-<script src="<?php echo current_link();?>js/totop.js"></script>
-<script src="<?php echo current_link();?>js/scroll.js"></script>
+
+<script src="<?php echo current_link();?>js/essentials.js"></script>

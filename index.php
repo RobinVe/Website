@@ -188,7 +188,7 @@
 		<div class='main col-md-6 zebra'>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/starter.png" height="30">
+					<img class="center-block" src="img/starter.svg" height="30">
 					<h3 class='text-center'>Starter</h3>
 				</div>
 				<div class='col-md-6'>
@@ -214,7 +214,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/basic.png" height="30">
+					<img class="center-block" src="img/basic.svg" height="30">
 					<h3 class='text-center'>Basic</h3>
 				</div>
 				<div class='col-md-6 '>
@@ -230,7 +230,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/premium.png" height="30">
+					<img class="center-block" src="img/premium.svg" height="30">
 					<h3 class='text-center'>Premium</h3>
 				</div>
 				<div class='col-md-6'>
