@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://360-web.nl/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/index</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/portfolio</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/overons</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/bullhorn</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/starter.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/basic.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/premium.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://360-web.nl/calculator.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

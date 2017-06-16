@@ -10,7 +10,7 @@
 		<div class='landing content-block col-md-6 col-md-offset-3'>
 			<h1 class='text-center'>Professionele websites vanaf 499,-</h1>
 			<hr>
-			<h3 class='text-center'><i>Full Service | No Nonsens | Innovatief</i></h3>
+			<h3 class='text-center'><i>Full Service | No Nonsense | Innovatief</i></h3>
 		</div>
 		<a href='indexv2.php#Pakketten'>
 			<div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost hidden-xs'>
@@ -130,8 +130,8 @@
 			</div>
 		</div>
 		<div class='main'>
-			<div class='col-md-10 col-md-offset-1 flex' style='min-height:50vh;'>
-				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+			<div class='col-md-10 col-md-offset-1 flex'>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<div class='circleheader center-block'>
 							<h1 class='center-block text-center title-number'>1</h1>
@@ -145,7 +145,7 @@
 						</p>
 					</div>
 				</div>
-				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>2</h1>
 						<h2 class='text-center'>U STUURT DE CONTENT</h2>
@@ -157,7 +157,7 @@
 						</p>
 					</div>
 				</div>
-				<div class='three-blocks col-md-4 col-xs-12 flex-center' style='min-height: 40vh;'>
+				<div class='three-blocks col-md-4 col-xs-12 flex-center'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>3</h1>
 						<h2 class='text-center'>LIVE!</h2>
@@ -170,7 +170,11 @@
 			</div>
 		</div>
 	</div>
+<<<<<<< HEAD
 	<div class='double-slide vertical-slide' id='Full-Service' name='Full-Service' style='margin:0px;'>
+=======
+	<div class='double-slide vertical-slide' id='Full-Service' name='Full-Service'>
+>>>>>>> master
 		<div class='main col-md-6 leftside'>
 			<div class='row'>
 				<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
@@ -188,7 +192,7 @@
 		<div class='main col-md-6 zebra'>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/starter.png" height="30">
+					<img class="center-block" src="img/starter.svg" height="30">
 					<h3 class='text-center'>Starter</h3>
 				</div>
 				<div class='col-md-6'>
@@ -214,7 +218,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/basic.png" height="30">
+					<img class="center-block" src="img/basic.svg" height="30">
 					<h3 class='text-center'>Basic</h3>
 				</div>
 				<div class='col-md-6 '>
@@ -230,7 +234,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/premium.png" height="30">
+					<img class="center-block" src="img/premium.svg" height="30">
 					<h3 class='text-center'>Premium</h3>
 				</div>
 				<div class='col-md-6'>
@@ -249,7 +253,7 @@
 	<div class='single-slide flex' id='Contact' name='Contact' >
 		<div class='col-md-6 col-md-offset-3 col-xs-12 flex-center'>
 			<h1 class='text-center'>Neem contact met ons op!</h1>
-			<h3 class='text-center underline'>Binnen 15 werkdag nemen we contact met u op!</h3>
+			<h3 class='text-center underline'>Binnen 15 minuten nemen we contact met u op!</h3>
 			<form class='form' enctype="multipart/form-data">
 				<div class="form-group col-md-12">
 					<input type="text" class="form-control" name='name' placeholder="Naam" required>

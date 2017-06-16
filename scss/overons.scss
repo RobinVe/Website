@@ -1,51 +1,74 @@
 @import "colors";
 
-.btn-primary{
-  background-color: grey;
-  position: relative;
-  top: 10vh;
+.contact>p{
+  color:white;
+  font-size: 17px;
+  margin-top: 2%;
 }
 
-.homepage-hero-module {
-    border-right: none;
-    border-left: none;
-    position: relative;
+.contact2>p{
+  color:#f58a08;
+  font-size: 17px;
+  margin-top: 2%;
 }
-.no-video .video-container video,
-.touch .video-container video {
-    display: none;
+
+
+
+.flex{
+	min-height: 50vh;
 }
-.no-video .video-container .poster,
-.touch .video-container .poster {
-    display: block !important;
+
+.flex .flex-center img{
+	border-radius: 4px;
 }
-.video-container {
-    position: relative;
-    bottom: 0%;
-    left: 0%;
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-    background: #000;
+
+.main .qoute-box{
+	border-radius: 4px;
+	padding:10px;
+  min-width: 430px;
 }
-.video-container .poster img {
-    width: 100%;
-    bottom: 0;
-    position: absolute;
+
+.text-block{
+	padding:10px;
+		p{
+			font-size: 1.0em;
+		}
+		p:nth-of-type(1){
+			font-weight: bold;
+		}
 }
-.video-container .filter {
-    z-index: 100;
-    position: absolute;
-    background: rgba(0, 0, 0, 0.4);
-    width: 100%;
+
+
+.main:nth-of-type(odd){
+	.qoute-box{
+		background:$secondary;
+
+		.text-block{
+			padding:10px;
+			p{
+				color:$primary;
+			}
+		}
+	}
 }
-.video-container video {
-    position: absolute;
-    z-index: 0;
-    bottom: 0;
+
+.main:nth-of-type(2){
+	.qoute-box{
+		background:$primary;
+
+		.text-block{
+			padding:10px;
+			p{
+				color:$secondary;
+			}
+		}
+
+	}
 }
-.video-container video.fillWidth {
-    width: 100%;
+
+.text-block{
+	padding:5px;
+  min-width: 350px;
 }
 
 @media screen and (max-width: 425px){
@@ -56,19 +79,15 @@
     background-color: $primary;
   }
 
-  .main:nth-of-type(odd) .qoute-box{
+  .main:nth-of-type(1) .qoute-box{
     background-color: $primary;
   }
 
-  .main:nth-of-type(odd) .qoute-box .text-block p{
+  .main:nth-of-type(1) .qoute-box .text-block p{
     color:white;
   }
 
   .text-block{
   min-width:0px;
-  }
-
-  .main .qoute-box{
-    min-width:0px;
   }
 }
