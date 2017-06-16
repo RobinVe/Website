@@ -39,6 +39,7 @@
 								<li>5 uren inclusief per jaar</li>
 								<li>5% korting op uurtarief</li>
 								<li> - </li>
+								<li> - </li>
 							</ul>
 						</div>
 						<a href="<?php echo current_link();?>starter.php" class="more-link">

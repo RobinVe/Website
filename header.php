@@ -11,9 +11,9 @@
 
 	<?php
     if (isset($title)) {
-        echo "<title>360Web | $title</title>";
+        echo "<title>360Legal | $title</title>";
     } else {
-        echo "<title>360Web</title>";
+        echo "<title>360Legal</title>";
     };
 
     ?>
