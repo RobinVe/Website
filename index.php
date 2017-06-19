@@ -135,7 +135,6 @@
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<div class='circleheader center-block'>
 							<h1 class='center-block text-center title-number'>1</h1>
-						</div>
 						<h2 class='text-center'>KIES HET PRODUCT</h2>
 						<p>Gezien de diverse wensen hebben wij 3 pakketten vooraf voor u samengesteld.
 							Kies een pakket dat past bij uw wensen.<br>
@@ -144,6 +143,7 @@
 							Neem gerust contact op met één van onze Client Succes Agents.
 						</p>
 					</div>
+				</div>
 				</div>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>

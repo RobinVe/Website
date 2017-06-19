@@ -1,19 +1,22 @@
-var imageList = ['http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_schilder.jpg'];
+var imageList = [
+	"http://360-web.nl/img/background_jurist.jpg",
+	"http://360-web.nl/img/background_hovenier.jpg",
+	"http://360-web.nl/img/background_schilder.jpg"
+];
+
 var x = 0;
 
-function homeSlider(x){
-	var url = imageList[x];
-
-	$('#home').fadeTo('slow', 0.3, function(){
-		$(this).css('background-image', "url("+url+")");
-	}).fadeTo('slow', 1).delay(1000);
-	x++;
-	if(x >= imageList.length){
+function next(){
+	if(x > (imageList.length-1)){
 		x = 0;
 	}
-	console.log('Hey X is'+x);
+	var url = imageList[x];
+
+	$("#home").css("background-image", "url(" + url + ")");
+	console.log(x);
+	x++;
 }
 
-	setInterval(
-		homeSlider(x),
-		2000)
+setInterval(next,15000);
+
+$(document).ready(next());
