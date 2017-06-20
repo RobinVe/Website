@@ -8,13 +8,13 @@
 <div class='row'>
 	<div class='single-slide' id="home" name='home'>
 		<div class='landing content-block col-md-6 col-md-offset-3'>
-			<h1 class='text-center'>Professionele websites vanaf 499,-</h1>
+			<h1 class='text-center'>Geschikt voor elke ondernemer</h1>
 			<hr>
 			<h3 class='text-center'><i>Full Service | No Nonsense | Innovatief</i></h3>
 		</div>
-		<a href='indexv2.php#Pakketten'>
+		<a href='index.php#Pakketten'>
 			<div class='col-md-4 col-md-offset-4 col-xs-10 col-xs-offset-1 ghost hidden-xs'>
-				<p class='text-center'>Bekijk ons aanbod</p>
+				<p class='text-center'>Professionele websites vanaf 499,-</p>
 			</div>
 		</a>
 	</div>
@@ -96,7 +96,7 @@
 							<ul>
 								<li>Bootstrap Platform</li>
 								<li>Eigen design</li>
-								<li>Onbeperkte Dataverkeer</li>
+								<li>Onbeperkt Dataverkeer</li>
 								<li>95 GB Schrijfruimte</li>
 								<li>10 MYSQL Databases</li>
 								<li>VPN server</li>
@@ -133,14 +133,12 @@
 			<div class='col-md-10 col-md-offset-1 flex'>
 				<div class='three-blocks col-md-4 col-xs-12 flex-center'>
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
-						<div class='circleheader center-block'>
-							<h1 class='center-block text-center title-number'>1</h1>
-						</div>
+						<h1 class='title-number text-center'>1</h1>
 						<h2 class='text-center'>KIES HET PRODUCT</h2>
-						<p>Gezien de diverse wensen hebben wij 3 pakketten vooraf voor u samengesteld.
-							Kies een pakket dat past bij uw wensen.<br>
-							Neem goed in overweging wat uw doelstellingen zijn en wat u wilt bieden voor uw bezoekers.<br>
-							Wij helpen u graag wanneer u zelf niet weet wat het beste bij u past.<br>
+						<p class='text-justify'>Gezien de diverse wensen hebben wij 3 pakketten vooraf voor u samengesteld.
+							Kies een pakket dat past bij uw wensen.
+							Neem goed in overweging wat uw doelstellingen zijn en wat u wilt bieden voor uw bezoekers.
+							Wij helpen u graag wanneer u zelf niet weet wat het beste bij u past.
 							Neem gerust contact op met één van onze Client Succes Agents.
 						</p>
 					</div>
@@ -149,10 +147,10 @@
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>2</h1>
 						<h2 class='text-center'>U STUURT DE CONTENT</h2>
-						<p>
-							Wij bieden de service om een nieuwe website binnen 4 werkuren op te leveren.<br>
-							Om onze oplevertijden te honoreren is het van belang dat u alle content goed voorbereid.<br>
-							Wij verzorgen een roadmap dat u stapje voor stapje begeleid door het proces.<br>
+						<p class='text-justify'>
+							Wij bieden de service om een nieuwe website binnen 4 werkuren op te leveren.
+							Om onze oplevertijden te honoreren is het van belang dat u alle content goed voorbereid.
+							Wij verzorgen een roadmap dat u stapje voor stapje begeleid door het proces.
 							Dit onderdeel is het enige component waar u zelf in dient te investeren. Het kost u maximaal 3 werkuren. Mocht u vastlopen of geen idee hebben waar te starten en wat te schrijven bieden wij uiteraard een service aan waarbij één van onze communicatie specialisten dit onderwerp volledig van u ontzorgt.
 						</p>
 					</div>
@@ -161,20 +159,18 @@
 					<div classs='customtextblock col-md-10 col-md-offset-1'>
 						<h1 class='title-number text-center'>3</h1>
 						<h2 class='text-center'>LIVE!</h2>
-						<p>
-							Wanneer wij alle content binnen hebben gaan onze specialisten aan de slag. Afhankelijk van het pakket en extra diensten leveren wij de beta versie binnen 4 werkuren. <br>Onze Client Succes Agents lopen samen met u door de beta versie heen en verrichten de laatste punten op de i.<br>
-							Na uw akkoord staat de website binnen 20 minuten live en kunt u beginnen met de online kansen te benutten.<br>
+						<p class='text-justify'>
+							Wanneer wij alle content binnen hebben gaan onze specialisten aan de slag. Afhankelijk van het pakket en extra diensten leveren wij de beta versie binnen 4 werkuren.
+							Onze Client Succes Agents lopen samen met u door de beta versie heen en verrichten de laatste punten op de i.
+							Na uw akkoord staat de website binnen 20 minuten live en kunt u beginnen met de online kansen te benutten.
 						</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-<<<<<<< HEAD
-	<div class='double-slide vertical-slide' id='Full-Service' name='Full-Service' style='margin:0px;'>
-=======
+
 	<div class='double-slide vertical-slide' id='Full-Service' name='Full-Service'>
->>>>>>> master
 		<div class='main col-md-6 leftside'>
 			<div class='row'>
 				<h2 class='text-center fullservicetext'>Wat betekent Full Service?</h2>
@@ -192,7 +188,7 @@
 		<div class='main col-md-6 zebra'>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/starter.svg" height="30">
+					<img class="center-block" src="img/icon/starter.svg" height="30">
 					<h3 class='text-center'>Starter</h3>
 				</div>
 				<div class='col-md-6'>
@@ -218,7 +214,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/basic.svg" height="30">
+					<img class="center-block" src="img/icon/basic.svg" height="30">
 					<h3 class='text-center'>Basic</h3>
 				</div>
 				<div class='col-md-6 '>
@@ -234,7 +230,7 @@
 			</div>
 			<div class='row stripe'>
 				<div class='col-md-6'>
-					<img class="center-block" src="img/premium.svg" height="30">
+					<img class="center-block" src="img/icon/premium.svg" height="30">
 					<h3 class='text-center'>Premium</h3>
 				</div>
 				<div class='col-md-6'>

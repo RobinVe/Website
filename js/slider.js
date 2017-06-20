@@ -1,19 +1,25 @@
-var imageList = ['http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_jurist.jpg','http://localhost/Website/img/background_schilder.jpg'];
+var imageList = [
+	"img/slider/background_aannemer.jpg",
+	"img/slider/background_jurist.jpg",
+	"img/slider/background_hovenier.jpg",
+	"img/slider/background_trainer.jpg"
+];
+
 var x = 0;
 
-function homeSlider(x){
-	var url = imageList[x];
-
-	$('#home').fadeTo('slow', 0.3, function(){
-		$(this).css('background-image', "url("+url+")");
-	}).fadeTo('slow', 1).delay(1000);
-	x++;
-	if(x >= imageList.length){
+function next(){
+	if(x > (imageList.length-1)){
 		x = 0;
 	}
-	console.log('Hey X is'+x);
+	var url = imageList[x];
+
+	$("#home").css("background-image", "url(" + url + ")");
+	console.log(x);
+	x++;
 }
 
-	setInterval(
-		homeSlider(x),
-		2000)
+setInterval(next,6000);
+
+$(document).ready(
+	next()
+);

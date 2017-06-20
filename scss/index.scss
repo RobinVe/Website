@@ -2,14 +2,14 @@
 @import "text";
 
 #home {
-	// background-color:#f58a08;
+	background-color:#f58a08;
 	min-height: 100vh;
 	animation: fadein 2s;
 	background-position: center center;
 	background-repeat: no-repeat;
 	// background-image: url('../img/arrowbackground.jpg');
 	background-size: cover;
-	background-image: url('../img/background.jpg');
+	background-image: url('../img/slider/background_aannemer.jpg');
 }
 
 .largespace {
@@ -294,12 +294,12 @@
 }
 
 .leftside {
-	background-image: url(../img/minimalmountains.jpg) !important;
+	background-image: url('../img/mountains.jpg') !important;
 	background-position: bottom !important;
 }
 
 .topside {
-	background-image: url(../img/minimalmountains.jpg) !important;
+	background-image: url('../img/mountains.jpg') !important;
 	background-position: 100% 80% !important;
 }
 
@@ -442,4 +442,8 @@ form {
 .fullservicepara p {
 	font-size: 1em;
 	color: $secondary;
+}
+
+.text-justify{
+	text-align: justify;
 }

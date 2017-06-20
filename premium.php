@@ -51,78 +51,50 @@ Stock video’s en afbeeldingen zijn niet inbegrepen.
  		   </div>
  	   </div>
     </div>
-   <div class='main'>
-      <div class='col-md-10 col-md-offset-1'>
-         <div class='col-md-3'>
-            <div class='col-md-10 col-md-offset-1'>
-               <h3>Vormgeving</h3>
-               <ul>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Bootstrap Platform</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Eigen design</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Formulieren</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Zoekfunctie</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Blog & Nieuwsberichten</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Testimonials</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Google Maps</span>
-				  </li>
-                  <li>
-					  <i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Social Media deelbuttons</span>
-				  </li>
-               </ul>
-            </div>
-         </div>
-         <div class='col-md-3'>
-            <div class='col-md-10 col-md-offset-1'>
-               <h3>Data</h3>
-               <ul>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Onbeperkte Dataverkeer</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>95 GB Schrijfruimte</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>10 MYSQL Database</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>VPS</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Domeinregistratie</span></li>
-               </ul>
-            </div>
-         </div>
-         <div class='col-md-3'>
-            <div class='col-md-10 col-md-offset-1'>
-               <h3>Email</h3>
-               <ul>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>80 Emailboxen</span></li>
-                  <li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>35 GB Email geheugen</span></li>
-               </ul>
-            </div>
-         </div>
-         <div class='col-md-3'>
-            <div class='col-md-10 col-md-offset-1'>
-               <h3>Extra's</h3>
-			   	<ul>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Dedicated Full Service Support</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Technische Zoekmachine Optimalisatie</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Inhoudelijke Zoekmachine Optimalisatie</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>URL behoud</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Download functionaliteit</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Cookie controle</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>RSS Feed</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Google Analytics</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Mailchimp koppeling</span></li>
- 					<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Online KPI management</span></li>
-		   		</ul>
-            </div>
-         </div>
-      </div>
-   </div>
+	<div class="main">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="col-md-3 col-sm-6">
+					<div class="col-md-12">
+						<h3>Vormgeving</h3>
+						<ul>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>WordPress CMS</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Template met maatwerk</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Formulieren</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Social Media deelbuttons</span></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="col-md-12">
+						<h3>Data</h3>
+						<ul>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>15 GB Dataverkeer</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>2 MYSQL Database</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>VPN Server</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Domeinregistratie</span></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="col-md-10 col-md-offset-1">
+						<h3>Email</h3>
+						<ul>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>40 Emailboxen</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>10 GB Email geheugen</span></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="col-md-12">
+						<h3>Extra's</h3>
+						<ul>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Full Service Support</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>Technische Zoekmachine Optimalisatie</span></li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i><span>URL behoud</span></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 </div>
 <?php include('footer.php'); ?>

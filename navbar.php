@@ -9,7 +9,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-		 <a class="navbar-brand" href="<?php echo current_link();?>index"><img class="center-block" src="<?php echo current_link();?>img/360web.png" height="175"></a>
+		 <a class="navbar-brand" href="<?php echo current_link();?>index"><img class="center-block" src="<?php echo current_link();?>img/logo/logo.svg" height="175"></a>
        </div>
        <div class="collapse navbar-collapse navbar" id="navbar-collapse-1">
          <ul class="nav navbar-nav">
